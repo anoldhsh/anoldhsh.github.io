@@ -23,7 +23,9 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>Hello! My name is Hwang Seok-hyun and I am an avid researcher in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. I am currently pursuing a master's degree in the Intelligent Robotics Program at GIST University in Korea.
+As a researcher, I am particularly interested in the interaction between humans and VR/AR systems, and how we can create more immersive and realistic experiences through hardware devices. I have been working on developing my own VR locomotion method and haptic feedback device, which I am building with my expertise in circuits and mechanics.
+Thank you for your interest in my research. I am excited to share more about my work in the future and hope you will continue to follow my progress.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
