@@ -10,7 +10,7 @@
   h2 {
     @include sans;
     font-weight: 900;
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     letter-spacing: -.05rem;
     margin: 0;
   }
@@ -21,7 +21,7 @@
 .page-header { padding: 1.5rem 0;
 
   .avatar {
-    width: 95px;
+    width: 200px;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
@@ -70,7 +70,7 @@
   }
 
   .executive-summary {
-    @include media_larger_than_mobile { font-size: 1.125rem; }
+    @include media_larger_than_mobile { font-size: 0.95rem; }
   }
 }
 
@@ -140,13 +140,13 @@
   .resume-item-title {
     @include sans_bold;
     margin: 0 0 .75rem;
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     letter-spacing: -.05rem;
     line-height: 1;
   }
 
   .resume-item-details {
-    font-size: 1.125rem;
+    font-size: 0.95rem;
     margin: 0 0 .75rem;
     line-height: 1;
 

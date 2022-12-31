@@ -11,21 +11,20 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Seokhyun Hwang"
-resume_title:                   "HCI researcher"
+resume_title:                   "HCI & VR/AR researcher"
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email:           "anoldhsh@gmail.com"
+resume_contact_email:           "anoldhsh@gm.gist.ac.kr"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "555-7334"
-resume_contact_address:         "742 Evergreen Terrace, Springfield"
+# resume_contact_telephone:       "555-7334"
+# resume_contact_address:         "742 Evergreen Terrace, Springfield"
 
-resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "anoldhsh@gm.gist.ac.kr"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>Hello! My name is Hwang Seok-hyun and I am an avid researcher in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. I am currently pursuing a master's degree in the Intelligent Robotics Program at GIST University in Korea.
-As a researcher, I am particularly interested in the interaction between humans and VR/AR systems, and how we can create more immersive and realistic experiences through hardware devices. I have been working on developing my own VR locomotion method and haptic feedback device, which I am building with my expertise in circuits and mechanics.
-Thank you for your interest in my research. I am excited to share more about my work in the future and hope you will continue to follow my progress.</p>"
+resume_header_intro: "<p>Hello! My name is Hwang Seok-hyun and I am a master's student in the Intelligent Robotics Program at GIST University in Korea. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems.</p>
+<p>I am particularly interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices. My goal is to create a device that can enhance the user's sense of presence and immersion in virtual environments, and I am excited to share more about my work in the future. Thank you for your interest in my research.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,9 +39,9 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
-resume_section_links:           true
+resume_section_links:           false
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
@@ -53,7 +52,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/seokhyun-hwang-262632229"
   # resume_instagram_url:         "insert your Instagram URL here"
-  # resume_website_url:           "http://joelglovier.com"
+  resume_website_url:           "https://scholar.google.co.kr/citations?user=75v__NEAAAAJ&hl=ko"
   # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
