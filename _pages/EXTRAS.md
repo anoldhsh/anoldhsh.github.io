@@ -1,7 +1,7 @@
 ---
 layout: page
-title: EXTRACURRICULARS
-permalink: /EXTRACURRICULARS/
+title: EXTRAS.
+permalink: /EXTRAS/
 image: Extracurriculars.jpeg
 ---
 
