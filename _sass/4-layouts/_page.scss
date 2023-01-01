@@ -18,20 +18,27 @@
   }
 }
 
-.page__head {
-  
-  .page-image {
-    background-size: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: $white;
-    &:after {
-      content: "";
-      display: table;
-      width: 50%;
-      min-height: 0px;
-      padding-top: 25%;
-    }
+.page__head .page-image {
+  background-size: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: $white;
+}
+.page__head .page-image:after {
+  content: "";
+  display: table;
+  width: 50%;
+  min-height: 0px;
+  padding-top: 25%;
+}
+
+@media only screen and (max-width: 600px) {
+  .page__head .page-image {
+    background-size: 100%;
+    padding-top: 40%;
+  }
+  .page__head .page-image:after {
+    width: 100%;
   }
 }
 
