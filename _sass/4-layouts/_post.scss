@@ -146,8 +146,11 @@
   .prev,
   .next {
     flex: 1 0 50%;
+    &:first-child {
+      padding-left: 25%;
+    }
     &:last-child {
-      padding-right: 0;
+      padding-right: 25%;
     }
 
     .post__nav__image {
