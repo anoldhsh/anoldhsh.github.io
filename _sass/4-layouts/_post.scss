@@ -4,7 +4,7 @@
 
   .post-title {
     margin-bottom: 10px;
-    width: 500px;
+    width: 80%;
     max-width: 100%;
     font-size: 57px;
     line-height: 70px;
@@ -63,16 +63,26 @@
 }
 
 .post-image {
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-color: $light-gray;
+  background-size: 50%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: $white;
   &:after {
     content: "";
     display: table;
+    width: 50%;
+    min-height: 0px;
+    padding-top: 25%;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .post-image {
+    background-size: 100%;
+    padding-top: 40%;
+  }
+  .post-image:after {
     width: 100%;
-    min-height: 300px;
-    padding-top: 50%;
   }
 }
 

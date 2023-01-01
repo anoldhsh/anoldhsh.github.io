@@ -1,6 +1,6 @@
 ---
 layout: page
-title: EXTRAS.
+title: EXTRA ACTIVITIES
 permalink: /EXTRAS/
 image: Extracurriculars.jpeg
 ---
