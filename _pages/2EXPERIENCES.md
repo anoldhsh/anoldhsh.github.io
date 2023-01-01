@@ -2,7 +2,7 @@
 layout: page
 title: EXPERIENCES
 permalink: /EXPERIENCES/
-image: 01.jpg
+image: Experiences.jpeg
 ---
 
 # RESEARCH EXPERIENCE

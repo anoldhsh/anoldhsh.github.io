@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
-image: 01.jpg
+title: ABOUT
+permalink: /ABOUT/
+image: About.jpeg
 ---
 
 Hello! My name is Hwang Seok-hyun and I am currently pursuing a master's degree in the Intelligent Robotics Program at GIST University in Korea. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. Specifically, I am interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices.
