@@ -5,7 +5,7 @@ permalink: /EXTRAS/
 image: Extracurriculars.jpeg
 ---
 
-#### GIST Society of Automotive Engineers at, Korea (GIST)
+#### GIST Society of Automotive Engineers, Korea (GIST)
 * <i><u>Founder (October 2020 – March 2022)</u></i><br />
 * GIST College Student Self-Created Automobile Club Establishment<br />
 * Responsible for designing and manufacturing steering systems
