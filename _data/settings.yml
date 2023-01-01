@@ -1,0 +1,44 @@
+#-------------------------------
+# General Site Settings
+title: Seokhyun Hwang
+logo: logo.png # You can add own logo.
+description: This is Seokhyun Hwang's Info
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Seokhyun Hwang
+  image: 01.jpg
+  say-hello: Hello, I’m <strong>Seokhyun Hwang</strong>
+  bio: Hi there! My name is Seokhyun Hwang and I am a researcher in the field of <strong>Human-Computer Interaction</strong> and <strong>Virtual/Augmented Reality</strong> systems. Thank you for your interest in my research. I am excited to share my work with you and hope you will continue to follow my future progress.
+
+#-------------------------------
+# Contact links
+# twitter: https://twitter.com/ # Add your Twitter handle
+# facebook: https://facebook.com/ # Add your Facebook handle
+# dribbble: https://dribbble.com/ # Add your Dribbble handle
+# instagram: https://instagram.com/ # Add your Instagram handle
+# pinterest: https://pinterest.com/ # Add your Pinterest handle
+GoogleScholar: https://scholar.google.co.kr/citations?user=75v__NEAAAAJ&hl # Add your Pinterest handle
+LinkedIn: https://www.linkedin.com/in/seokhyun-hwang-262632229/
+
+#-------------------------------
+# Comment Section (Disqus)
+# disqus-identifier: mr-brown # add your shortname for Disqus Comment. For example mr-brown
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+# instagram-profile: artemsheludko_ # Add instagram username
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
