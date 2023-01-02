@@ -11,9 +11,9 @@ image: Extracurriculars.jpeg
 * Responsible for designing and manufacturing steering systems
 * Funded by GIST over 10,000$.
 
-#### GIST Infinite Challenge Project, Korea (GIST)
+#### GIST Student Creative Activity Support Initiative, Korea (GIST)
 * <i><u>Team Leader (March 2020 – November 2020)</u></i><br />
-* Support for student clubs in the COVID-19 Era<br />
+* COVID-19 Student Club Support Program<br />
 * Producing and distributing performance/activity videos<br />
 * Funded by GIST over 4,500$
 
