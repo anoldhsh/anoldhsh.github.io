@@ -5,7 +5,7 @@ permalink: /ABOUT/
 image: About.jpeg
 ---
 
-Hello! My name is Seok-hyun Hwang and I am currently pursuing a master's degree in the Intelligent Robotics Program at <a href="https://www.gist.ac.kr/en/main.html">GIST University</a> in Korea. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. Specifically, I am interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices.
+Hello! My name is Seok-hyun Hwang and I am currently pursuing a master's degree in the Intelligent Robotics Program at <a href="https://sites.google.com/view/gist-hcis-lab">HCIS Lab</a> (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl">SeungJun Kim</a>) in <a href="https://www.gist.ac.kr/en/main.html">GIST University</a>, Korea. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. Specifically, I am interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices.
 
 I have been working on developing my own VR locomotion method and haptic feedback device, which I am building with my understanding of circuits and mechanics. My goal is to create a device that can enhance the user's sense of presence and immersion in virtual environments.
 
