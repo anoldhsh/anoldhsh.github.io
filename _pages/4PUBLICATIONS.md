@@ -7,6 +7,8 @@ image: Publications.jpeg
 
 # CONFERENCES & PUBLICATIONS
 #### 2023
+* Lee, J., <strong>Hwang, S.</strong>, Ataya, A., and Kim, S. Evaluation of Visual, Auditory, and Olfactory Stimulus-Based Attractors for Intermittent Reorientation in Virtual Reality Locomotion. <u><i>Virtual Reality</i></u> (Under Review)
+* Lee, J., <strong>Hwang, S.</strong>, Ataya, A., and Kim, S. Effect of Optical Flow and User VR Familiarity on Curvature Gain Thresholds for Redirected Walking. <u><i>Virtual Reality</i></u> (Under Review)
 * <strong>Hwang, S.</strong>, Lee, J., Kim, Y., Seo, Y, and Kim, S. Electrical, Vibrational, and Cooling Stimuli-Based Redirected Walking: Comparison of Various Vestibular Stimulation-Based Redirected Walking Systems. <u><i>Proceedings of the 2023 CHI</i></u> (Accepted)
 
 #### 2022
