@@ -3,7 +3,7 @@ layout: post
 title: Auditory and Olfactory Stimuli-Based Attractors to Induce Reorientation in Virtual Reality Forward Redirected Walking
 # date:   2018-07-24 15:01:35 +0300
 image:  OLFRDW.jpeg
-tags:   2022_CHI_Conference_on_Human_Factors_in_Computing_Systems_EA
+tags:   2022_CHI_Conference
 ---
 
 ### Abstract:

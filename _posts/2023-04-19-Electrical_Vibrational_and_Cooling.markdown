@@ -3,7 +3,7 @@ layout: post
 title: Electrical, Vibrational, and Cooling Stimuli-Based Redirected Walking
 # date:   2018-07-24 15:01:35 +0300
 image:  GVS_BCV_CVS.gif
-tags:   2023_CHI_Conference_on_Human_Factors_in_Computing_Systems
+tags:   2023_CHI_Conference
 ---
 
 ### Abstract:

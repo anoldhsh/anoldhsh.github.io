@@ -3,7 +3,7 @@ layout: post
 title: "REVES: Redirection Enhancement Using Four-Pole Vestibular Electrode Stimulation:"
 # date:   2018-07-24 15:01:35 +0300
 image:  VSRDW.gif
-tags:   2022_CHI_Conference_on_Human_Factors_in_Computing_Systems_EA
+tags:   2022_CHI_Conference
 ---
 
 ### Abstract:
