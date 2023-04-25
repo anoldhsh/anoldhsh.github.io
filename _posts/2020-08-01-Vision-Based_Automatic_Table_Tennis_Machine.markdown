@@ -5,4 +5,4 @@ title:  Vision-Based Automatic Table Tennis Machine
 image:  TableTennis.gif
 tags:   Undergraduate_project
 ---
-We are working on it and will complete it soon. Thank you for your interest! We look forward to introducing it to you.
+I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!

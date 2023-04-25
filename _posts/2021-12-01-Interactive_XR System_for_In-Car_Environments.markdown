@@ -5,4 +5,4 @@ title:  Interactive XR System for In-Car Environments Using Natural User Interfa
 image:  CarXR.gif
 tags:   Master's_project
 ---
-We are working on it and will complete it soon. Thank you for your interest! We look forward to introducing it to you.
+I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!
