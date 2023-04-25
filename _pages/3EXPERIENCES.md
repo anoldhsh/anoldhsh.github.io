@@ -36,6 +36,13 @@ image: Experiences.jpeg
 
 ***
 
+# STUDY ABROAD EXPERIENCE
+#### <a href="https://www.bu.edu">Boston University</a> Summer Sessions, USA
+* <i><u>June 2018 – August 2018</u></i><br />
+* Exchange Student<br />
+
+***
+
 # TEACHING EXPERIENCE
 #### XR Project Class Teaching Assistant, Korea (GIST)
 * <i><u>2022 Fall Semester</u></i><br />
@@ -54,10 +61,3 @@ image: Experiences.jpeg
 * Experiment Team Leader (Educational volunteer)
 * Design Team Leader
 * Providing experimental and theoretical education to elementary and middle school students in the community
-
-***
-
-# STUDY ABROAD EXPERIENCE
-#### <a href="https://www.bu.edu">Boston University</a> Summer Sessions, USA
-* <i><u>June 2018 – August 2018</u></i><br />
-* Exchange Student<br />
