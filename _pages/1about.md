@@ -46,7 +46,7 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 * <i><u>August 2020</u></i><br />
 * 1st prize in table tennis robot at the 4th GIST Creative Convergence Competition in 2020
 
-#### Scholarship for Academic Excellence, Korea (GIST)
+#### Scholarship for Academic Excellence, Korea
 * <i><u>September 2020 – December 2020</u></i><br />
 * GIST Scholarship for Academic Excellence
 
