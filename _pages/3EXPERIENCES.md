@@ -10,9 +10,8 @@ image: Experiences.jpeg
 * <i><u>M.S. (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) (September 2021 – Present)</u></i><br />
 * Intelligent Robotics, Institute of Integrated Technology<br />
 * Development of redirection enhancement system using galvanic vestibular stimulation<br />
-* Development of haptic system for multi-texture detection in virtual environment<br />
-* Research on AI-based visual information modulation technology to reduce cybersickness<br />
-* Development of VR user human-state identification algorithm through gait pattern
+* Development of redirected walking attractors based on visual, auditory, and olfactory stimuli, along with conducting research on user experience<br />
+* Development of an EMS (Electrical Muscle Stimulation) haptic stimulation system utilizing biomechanical simulation<br />
 
 #### Human-Centered Intelligence Systems Lab, Korea (GIST)
 * <i><u>Research Intern (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) (January 2021 – September 2021)</u></i><br />
