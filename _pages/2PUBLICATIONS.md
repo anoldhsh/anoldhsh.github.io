@@ -2,7 +2,7 @@
 layout: page
 title: PUBLICATIONS
 permalink: /PUBLICATIONS/
-image: Publications.jpeg
+image: Publications_0731.jpg
 ---
 
 # CONFERENCES & PUBLICATIONS
