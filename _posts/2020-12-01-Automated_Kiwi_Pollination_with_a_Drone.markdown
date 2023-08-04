@@ -5,4 +5,4 @@ title:  Designing a Drone for Automated Kiwi Pollination
 image:  KiwiDron.jpeg
 tags:   Undergraduate_project
 ---
-I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!
+I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!

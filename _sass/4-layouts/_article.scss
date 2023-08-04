@@ -7,9 +7,9 @@
   }
 
   .article__image {
-    width: 50%;
+    width: 35%;
     display: block;
-    background-position: center;
+    background-position: left;
     background-size: cover;
     background-repeat: no-repeat;
     background-color: $light-gray;
@@ -27,8 +27,8 @@
 
   .article__content {
     width: 60%;
-    padding: 50px;
-    margin-left: -10%;
+    padding: 20px;
+    margin-left: auto;
     z-index: 1;
     border-radius: 3px;
     background: rgba(255, 255, 255, 0.98);
@@ -42,7 +42,7 @@
     }
 
     .article__title {
-      margin-bottom: 20px;
+      margin-bottom: 5px;
       font-size: 30px;
       
       a {
@@ -54,7 +54,7 @@
     }
 
     .article__excerpt {
-      margin-bottom: 20px;
+      margin-bottom: 5px;
       font-size: 16px;
       line-height: 26px;
     }
