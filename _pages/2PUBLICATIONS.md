@@ -7,6 +7,7 @@ image: Publications_0731.jpg
 
 # CONFERENCES & PUBLICATIONS
 #### 2023
+* Jo, T., Yeo, D., Kim, G., <strong>Hwang, S.</strong>, and Kim, S. "WatchCap: Improving Scanning Efficiency in People with Low Vision through Compensatory Head Movement Stimulation." <u><i>Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)</i></u> (Under Review)
 * <strong>Hwang, S.</strong>, Kim, Y., Seo, Y, and Kim, S. "Enhancing Seamless Walking in Virtual Reality: Application of Bone-Conduction Vibration in Redirected Walking." <u><i>2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</i></u> (Conditionnally Accepted)
 * Kang, Y., Choi, S., An, E., <strong>Hwang, S.</strong>, and Kim, S. "Designing Virtual Agent Human–Machine Interfaces Depending on the Communication and Anthropomorphism Levels in Augmented Reality." <u><i>AutomotiveUI 2023</i></u> (Accepted)
 * Lee, J., <strong>Hwang, S.</strong>, Ataya, A., and Kim, S. "Evaluation of Visual, Auditory, and Olfactory Stimulus-Based Attractors for Intermittent Reorientation in Virtual Reality Locomotion." <u><i>Virtual Reality</i></u> (Under Revision)
