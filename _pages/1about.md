@@ -5,7 +5,7 @@ permalink: /ABOUT/
 image: About.jpeg
 ---
 
-Hello! My name is Seok-hyun Hwang and I am currently pursuing a master's degree in the Intelligent Robotics Program at <a href="https://sites.google.com/view/gist-hcis-lab"><strong>HCIS Lab</strong></a> (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) in <a href="https://www.gist.ac.kr/en/main.html"><strong>GIST</strong></a>, Korea. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. Specifically, I am interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices.
+Hello! My name is Seokhyun (Shawn) Hwang and I have recently completed my <strong>Master's degree</strong> in the Intelligent Robotics Program at <a href="https://sites.google.com/view/gist-hcis-lab"><strong>HCIS Lab</strong></a> (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) in <a href="https://www.gist.ac.kr/en/main.html"><strong>GIST</strong></a>, Korea. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. Specifically, I am interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices.
 
 I have been working on developing my own VR locomotion method and haptic feedback device, which I am building with my understanding of circuits and mechanics. My goal is to create a device that can enhance the user's sense of presence and immersion in virtual environments.
 
@@ -13,7 +13,7 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 # EDUCATION
 #### Gwangju Institute of Science and Technology, Korea<br />
-* <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(September 2021 – Present)</small><br />
+* <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(September 2021 – August 2023)</small><br />
 * <strong>Bachelor of Science (B.S.)</strong> - Department of Mechanical Engineering <small>(March 2017 – August 2021)</small>
 
 ***

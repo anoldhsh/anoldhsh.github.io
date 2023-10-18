@@ -7,7 +7,8 @@ image: Experiences.jpeg
 
 # RESEARCH EXPERIENCE
 #### Human-Centered Intelligence Systems Lab, Korea (GIST)
-* <i><u>M.S. (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) (September 2021 – Present)</u></i><br />
+* <i><u>Research Associates (September 2023 – present)</u></i><br />
+* <i><u>M.S. (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) (September 2021 – August 2023)</u></i><br />
 * Intelligent Robotics, Institute of Integrated Technology<br />
 * Development of redirection enhancement system using galvanic vestibular stimulation<br />
 * Development of redirected walking attractors based on visual, auditory, and olfactory stimuli, along with conducting research on user experience<br />
