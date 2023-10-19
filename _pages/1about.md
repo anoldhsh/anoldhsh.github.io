@@ -38,6 +38,15 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 ***
 
 # AWARDS & HONORS
+
+#### Honorable Mentions, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE
+* <i><u>October 2023</u></i><br />
+* Honorable mention for being in the top 1% of conference papers
+
+#### Honorable Mentions, International ACM Conference on Automotive UI, ACM
+* <i><u>September 2023</u></i><br />
+* Honorable mention for being in the top 5% of conference papers
+
 #### Government supported Scholarship, Korea
 * <i><u>September 2021 – June 2023</u></i><br />
 * Master's Degree Government Scholarship
