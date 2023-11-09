@@ -7,7 +7,7 @@
   }
 
   .article__image {
-    width: 30%;
+    width: 40%;
     display: block;
     background-position: left;
     background-size: cover;
@@ -21,13 +21,13 @@
       content: "";
       display: table;
       width: 100%;
-      padding-bottom: 50%;
+      padding-bottom: 55%;
     }
   }
 
   .article__content {
     width: 60%;
-    padding: 10px;
+    padding: 15px;
     margin-left: auto;
     z-index: 1;
     border-radius: 3px;

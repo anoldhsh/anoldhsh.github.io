@@ -1,8 +1,0 @@
----
-layout: post
-title:  Expanding the Detection Threshold for Redirected Walking Using Optical Flow
-# date:   2018-07-24 15:01:35 +0300
-image:  OptiRDW.jpeg
-tags:   Master's_project
----
-I am currently writing a description for the project! Thank you for your interest. I hope to be able to launch it soon!

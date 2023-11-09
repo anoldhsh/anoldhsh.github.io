@@ -6,8 +6,6 @@ image:  GVS_BCV_CVS.gif
 tags:   2023_CHI_Conference
 ---
 
-### Abstract:
-
 Redirected walking (RDW) is a technology that enables users to walk seamlessly in an enormous virtual space within a narrow real space while avoiding collisions with physical elements. Although RDW provides accurate proprioceptive sensations, redirection performance is limited by visual–vestibular inconsistencies. This study aims to support seamless walking in a VR environment by alleviating inconsistencies using four vestibular stimulations: noisy and directional galvanic vestibular stimulation, bone-conduction vibration, and caloric vestibular stimulation. The user study demonstrated that the stimulations successfully enable spatial expansion without impairing immersion and presence. Non-electrical stimulations (bone-conduction vibration and caloric vestibular stimulation) expanded the detection threshold, making them alternatives to electrical stimulations, and direction-based stimulation (directional galvanic vestibular stimulation) improved the user’s gait stability in RDW. Finally, the findings suggested improving the user experience for vestibular stimulation RDW either by lowering audio interference or increasing the synchronization between the RDW gain and the stimulation intensity.
 <a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580862"><strong>(Paper Link)</strong></a>
 
