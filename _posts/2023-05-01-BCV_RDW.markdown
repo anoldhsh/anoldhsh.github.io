@@ -6,8 +6,12 @@ image:  BCV_RDW.gif
 tags:   2023_ISMAR_Conference
 ---
 
-Redirected walking (RDW) is a technology that enables users to walk seamlessly in an enormous virtual space within a narrow real space while avoiding collisions with physical elements. Although RDW provides accurate proprioceptive sensations, redirection performance is limited by visual–vestibular inconsistencies. This study aims to support seamless walking in a VR environment by alleviating inconsistencies using four vestibular stimulations: noisy and directional galvanic vestibular stimulation, bone-conduction vibration, and caloric vestibular stimulation. The user study demonstrated that the stimulations successfully enable spatial expansion without impairing immersion and presence. Non-electrical stimulations (bone-conduction vibration and caloric vestibular stimulation) expanded the detection threshold, making them alternatives to electrical stimulations, and direction-based stimulation (directional galvanic vestibular stimulation) improved the user’s gait stability in RDW. Finally, the findings suggested improving the user experience for vestibular stimulation RDW either by lowering audio interference or increasing the synchronization between the RDW gain and the stimulation intensity.
-<a href="https://dl.acm.org/doi/abs/10.1145/3544548.3580862"><strong>(Paper Link)</strong></a>
+* This study explored bone-conduction vibration (BCV) in redirected walking (RDW), a technology for seamless walking in large virtual spaces within confined physical areas, enhancing obstacle avoidance performance using nonelectrical vestibular stimulation without the side effects caused by electrical stimulation. 
 
-### Video Preview
-<iframe width="420" height="315" src="//www.youtube.com/embed/ESgrtTIjj9M" frameborder="0" allowfullscreen="allowfullscreen">&nbsp;</iframe>
+* We proposed four different BCV stimulation methods and evaluated their detection threshold (DT) extension performance and user experience in virtual reality (VR) conditions. 
+
+* The DT was successfully expanded from at least 23% to 45% under all BCV conditions while preserving the immersion and presence. Notably, user comfort increased when content sound was used for vestibular stimulation. 
+
+* Under the extended DT condition, a simulation study demonstrated that all BCV stimulation methods facilitated uninterrupted walking over extended distances when applying RDW to users with random movements. 
+
+* Thus, this research established the viability of using BCV in RDW applications and the potential for incorporating content sound into BCV stimulation techniques.
