@@ -6,4 +6,14 @@ image:  ErgoPulse.gif
 tags:   Master's_project
 ---
 
-This research presents a cutting-edge system that merges biomechanical simulations with electrical muscle stimulation (EMS) to deliver kinesthetic force feedback to the lower extremities in virtual reality (VR). This system is composed of two key elements: a biomechanical simulation component that calculates joint torques in the lower body to simulate forces encountered in VR scenarios, and an EMS component that transforms these torques into muscle activations. In the initial experiment, the study examined participants' ability to differentiate between haptic force intensity and direction, noting differences in perceived resolution based on the force's direction. The second experiment, conducted in varied VR gaming environments featuring both continuous and impulse forces, aimed to determine the system's impact on enhancing user engagement and presence. Feedback from users indicated that the system's haptic feedback corresponded well with VR's audio-visual elements, thereby improving the overall sense of presence. Users also suggested improvements for the haptic experience, including the incorporation of additional sensory feedback such as temperature variation, skin stretching, and impact-related devices.
+* This research presents a cutting-edge system that merges biomechanical simulations with electrical muscle stimulation (EMS) to deliver kinesthetic force feedback to the lower extremities in virtual reality (VR). 
+
+* This system is composed of two key elements: a biomechanical simulation component that calculates joint torques in the lower body to simulate forces encountered in VR scenarios, and an EMS component that transforms these torques into muscle activations. 
+
+* In the initial experiment, the study examined participants' ability to differentiate between haptic force intensity and direction, noting differences in perceived resolution based on the force's direction. 
+
+* The second experiment, conducted in varied VR gaming environments featuring both continuous and impulse forces, aimed to determine the system's impact on enhancing user engagement and presence. 
+
+* Feedback from users indicated that the system's haptic feedback corresponded well with VR's audio-visual elements, thereby improving the overall sense of presence. 
+
+* Users also suggested improvements for the haptic experience, including the incorporation of additional sensory feedback such as temperature variation, skin stretching, and impact-related devices.
