@@ -27,12 +27,12 @@
 
   .article__content {
     width: 60%;
-    padding: 0px;
+    padding: 10px;
     margin-left: auto;
     z-index: 1;
     border-radius: 3px;
     background: rgba(255, 255, 255, 0.98);
-    // box-shadow: 0 1px 4px rgba(0,0,0,0.15);
+    box-shadow: 0 1px 4px rgba(0,0,0,0.15);
 
     .article__tag {
       font-size: 12px;
