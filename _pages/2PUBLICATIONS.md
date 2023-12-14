@@ -14,7 +14,7 @@ image: Publications_0731.jpg
 
   .publication-image {
     flex: 1;
-    width: 160px; /* 고정된 너비 */
+    width: 160px;
   }
 
   .publication-text {
@@ -26,9 +26,9 @@ image: Publications_0731.jpg
 
   .publication-image img {
     width: 100%;
-    height: auto; /* 높이 자동 조정 */
-    aspect-ratio: 16 / 9; /* 16:9 비율 유지 */
-    object-fit: cover; /* 이미지가 컨테이너를 채우도록 설정 */
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
     border-radius: 5px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
@@ -40,12 +40,12 @@ image: Publications_0731.jpg
     }
 
     .publication-image {
-      width: 100%; /* 모바일에서의 너비 조정 */
+      width: 100%;
     }
 
     .publication-image img {
-      height: auto; /* 모바일에서의 높이 자동 조정 */
-      aspect-ratio: 16 / 9; /* 모바일에서도 16:9 비율 유지 */
+      height: auto;
+      aspect-ratio: 16 / 9;
     }
   }
 </style>
@@ -84,8 +84,9 @@ image: Publications_0731.jpg
   </div>
   <div class="publication-text">
     <font size="4"><b>Enhancing Seamless Walking in Virtual Reality: Application of Bone-Conduction Vibration in Redirected Walking</b></font><br>
+    <font size="3">🏆 <strong>Honorable mention</strong></font><br>
     <font size="3" style="color:dark_gray;"><strong>Hwang, S.</strong>, Kim, Y., Seo, Y., and Kim, S.</font><br>
-    <font size="3" style="color:gray;"><u><i>2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</i></u> 🏆 <strong>Honorable mention</strong> - <a href="https://www.computer.org/csdl/proceedings-article/ismar/2023/283800b181/1SBIOSZTWlG"><strong>Link</strong></a></font>
+    <font size="3" style="color:gray;"><u><i>2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</i></u> - <a href="https://www.computer.org/csdl/proceedings-article/ismar/2023/283800b181/1SBIOSZTWlG"><strong>Link</strong></a></font>
   </div>
 </div>
 
@@ -95,8 +96,9 @@ image: Publications_0731.jpg
   </div>
   <div class="publication-text">
     <font size="4"><b>Designing Virtual Agent Human–Machine Interfaces Depending on the Communication and Anthropomorphism Levels in Augmented Reality</b></font><br>
+    <font size="3">🏆 <strong>Honorable mention</strong></font><br>
     <font size="3" style="color:dark_gray;">Kang, Y., Choi, S., An, E., <strong>Hwang, S.</strong>, and Kim, S.</font><br>
-    <font size="3" style="color:gray;"><u><i>AutomotiveUI 2023</i></u> 🏆 <strong>Honorable mention</strong> - <a href="https://dl.acm.org/doi/10.1145/3580585.3606460"><strong>Link</strong></a></font>
+    <font size="3" style="color:gray;"><u><i>AutomotiveUI 2023</i></u> - <a href="https://dl.acm.org/doi/10.1145/3580585.3606460"><strong>Link</strong></a></font>
   </div>
 </div>
 
