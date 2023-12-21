@@ -43,7 +43,7 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 * <i><u>October 2023</u></i><br />
 * Honorable mention for being in the top 1% of conference papers
 
-#### Honorable Mentions, International ACM Conference on Automotive UI, ACM
+#### Honorable Mentions, International ACM Conference on AutomotiveUI, ACM
 * <i><u>September 2023</u></i><br />
 * Honorable mention for being in the top 5% of conference papers
 
