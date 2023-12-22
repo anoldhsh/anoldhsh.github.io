@@ -53,7 +53,6 @@ image: Publications_0731.jpg
 
 
 # CONFERENCES & PUBLICATIONS
-## 2023
 
 <div class="publication-container">
   <div class="publication-image">
@@ -74,7 +73,7 @@ image: Publications_0731.jpg
   <div class="publication-text">
     <font size="4"><b>Effect of Optical Flow and User VR Familiarity on Curvature Gain Thresholds for Redirected Walking</b></font><br>
     <font size="3" style="color:dark_gray;">Lee, J., <strong>Hwang, S.</strong>, Ataya, A., and Kim, S.</font><br>
-    <font size="3" style="color:gray;"><u><i>Virtual Reality</i></u> (Accepted)</font>
+    <font size="3" style="color:gray;"><u><i>Virtual Reality</i></u> - <strong>(Accepted)</strong></font>
   </div>
 </div>
 
@@ -113,10 +112,6 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<br><br>
-
-## 2022
-
 <div class="publication-container">
   <div class="publication-image">
     <img src="/images/VSRDW.gif" alt="Research Image">
@@ -137,4 +132,34 @@ image: Publications_0731.jpg
     <font size="3" style="color:dark_gray;">Lee, J., <strong>Hwang, S.</strong>, Kim, K., and Kim, S.</font><br>
     <font size="3" style="color:gray;"><u><i>Extended Abstracts of the 2022 CHI (Late-Breaking Work)</i></u> - <a href="https://dl.acm.org/doi/10.1145/3491101.3519719"><strong>Link</strong></a></font>
   </div>
+</div>
+
+<br>
+<br>
+
+# Patents
+
+<div class="publication-text">
+<font size="4"><b>Method for Supporting Walking in Virtual Environment and System for the Same</b></font><br>
+<font size="3" style="color:dark_gray;"><strong>Hwang, S.</strong>, Lee, J., Kim, Y., Seo, Y., and Kim, S.</font><br>
+<font size="3" style="color:gray;"><u><i>KR Patent App. 2023-0,155,898</i></u></font>
+</div>
+
+<br>
+<br>
+
+# Copyrighted Content
+
+<div class="publication-text">
+<font size="4"><b>Mobility-Linked Virtual Reality-Based Underwater Exploration Immersive Content Game Software (Underwater Exploration & Ocean Trash Collection Game)</b></font><br>
+<font size="3" style="color:dark_gray;">Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and <strong>Hwang, S.</strong></font><br>
+<font size="3" style="color:gray;"><u><i>Copyright for Computer Program Works C-2022-050134</i></u></font>
+</div>
+
+<br>
+
+<div class="publication-text">
+<font size="4"><b>Mobility-Linked Virtual Reality-Based Underwater Exploration Immersive Content Game Software (Underwater Exploration & Underwater Gem Collection Game)</b></font><br>
+<font size="3" style="color:dark_gray;">Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and <strong>Hwang, S.</strong></font><br>
+<font size="3" style="color:gray;"><u><i>Copyright for Computer Program Works C-2022-050133</i></u></font>
 </div>
