@@ -14,4 +14,4 @@ tags:   2023_ISMAR_Conference
 
 * Under the extended DT condition, a simulation study demonstrated that all BCV stimulation methods facilitated uninterrupted walking over extended distances when applying RDW to users with random movements. 
 
-* Thus, this research established the viability of using BCV in RDW applications and the potential for incorporating content sound into BCV stimulation techniques. <a href="https://www.computer.org/csdl/proceedings-article/ismar/2023/283800b181/1SBIOSZTWlG"><strong>(Paper Link)</strong></a></font>
+* Thus, this research established the viability of using BCV in RDW applications and the potential for incorporating content sound into BCV stimulation techniques. <a href="https://www.computer.org/csdl/proceedings-article/ismar/2023/283800b181/1SBIOSZTWlG"><strong>(Paper Link)</strong></a>
