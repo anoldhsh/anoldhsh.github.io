@@ -12,6 +12,7 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 ***
 
 # EDUCATION
+
 #### Gwangju Institute of Science and Technology, Korea<br />
 * <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(September 2021 – August 2023)</small><br />
 * <strong>Bachelor of Science (B.S.)</strong> - Department of Mechanical Engineering <small>(March 2017 – August 2021)</small>
@@ -19,6 +20,7 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 ***
 
 # TECHNICAL STRENGTHS
+
 #### Modeling & Designing
 * Autodesk Inventor
 * Fusion 360
@@ -70,3 +72,11 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 #### Government supported Scholarship, Korea
 * <i><u>March 2017 – August 2021</u></i><br />
 * GIST Bachelor's Degree Government Scholarship
+
+***
+
+# INVITED TALKS
+
+#### HCI Korea’24 Top-conference Sessions, ACM SIGCHI (Korea Local Chapter)
+* <i><u>January 2024</u></i><br />
+* Presentation of Vestibular Stimuli-Based Redirected Walking Research at a HCI Korea’24 Top-Conference Invited Talk Session.
