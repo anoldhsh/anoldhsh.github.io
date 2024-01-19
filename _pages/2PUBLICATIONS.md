@@ -68,6 +68,28 @@ image: Publications_0731.jpg
 
 <div class="publication-container">
   <div class="publication-image">
+    <img src="/images/ErgoPulse.gif" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>ErgoPulse: Electrifying Your Lower Body With Biomechanical Simulation-based Electrical Muscle Stimulation Haptic System in Virtual Reality</b></font><br>
+    <font size="3" style="color:dark_gray;"><strong>Hwang, S.</strong>, Oh, J., Kang, S., Seong, M., Elsharkawy, A., and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>Proceedings of the 2024 CHI</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div class="publication-image">
+    <img src="/images/SyncVR.png" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>SYNC-VR: Synchronizing Your Senses to Conquer Motion Sickness for Enriching In-Vehicle Virtual Reality</b></font><br>
+    <font size="3" style="color:dark_gray;">Elsharkawy, A., Ataya, A., Yeo, D., An, E., <strong>Hwang, S.</strong>, and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>Proceedings of the 2024 CHI</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div class="publication-image">
     <img src="/images/OptiRDW.jpeg" alt="Research Image">
   </div>
   <div class="publication-text">
