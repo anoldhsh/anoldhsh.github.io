@@ -25,3 +25,4 @@ tags:   Master's_project
 * To delve further, our analysis indicated that when both the OF and redirecting directions were identical, the RDW performance was robust to VR familiarity; whereas, in opposing directions, the DT range increased for VR-familiar users. 
 
 * Our study findings suggested using OF for the RDW technique and extending its applicability in virtual environments.
+<a href="https://link.springer.com/article/10.1007/s10055-023-00935-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240129&utm_content=10.1007/s10055-023-00935-4"><strong>(Paper Link)</strong></a>

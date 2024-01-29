@@ -95,7 +95,7 @@ image: Publications_0731.jpg
   <div class="publication-text">
     <font size="4"><b>Effect of Optical Flow and User VR Familiarity on Curvature Gain Thresholds for Redirected Walking</b></font><br>
     <font size="3" style="color:dark_gray;">Lee, J., <strong>Hwang, S.</strong>, Ataya, A., and Kim, S.</font><br>
-    <font size="3" style="color:gray;"><u><i>Virtual Reality</i></u> - <strong>(Accepted)</strong></font>
+    <font size="3" style="color:gray;"><u><i>Virtual Reality</i></u> - <a href="https://link.springer.com/article/10.1007/s10055-023-00935-4?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20240129&utm_content=10.1007/s10055-023-00935-4"><strong>Link</strong></a></font>
   </div>
 </div>
 
