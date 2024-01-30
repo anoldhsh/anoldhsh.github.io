@@ -49,6 +49,10 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 * <i><u>September 2023</u></i><br />
 * Honorable mention for being in the top 5% of conference papers
 
+#### Special Recognitions, ACM Symposium on User Interface Software and Technology (UIST), ACM
+* <i><u>May 2023</u></i><br />
+* Special Recognitions for Outstanding Reviews in 2023 UIST
+
 #### Government supported Scholarship, Korea
 * <i><u>September 2021 – June 2023</u></i><br />
 * Master's Degree Government Scholarship
