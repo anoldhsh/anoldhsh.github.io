@@ -36,16 +36,9 @@ image: Experiences.jpeg
 
 ***
 
-# STUDY ABROAD EXPERIENCE
-#### <a href="https://www.bu.edu">Boston University</a> Summer Sessions, USA
-* <i><u>June 2018 – August 2018</u></i><br />
-* Exchange Student<br />
-
-***
-
 # TEACHING EXPERIENCE
 #### XR Project Class Teaching Assistant, Korea (GIST)
-* <i><u>2022 Fall Semester</u></i><br />
+* <i><u>2022 Fall Semester - 2023 Spring Semester</u></i><br />
 * Served as a teaching assistant in a project-based class
 * Responsible for teaching, exam preparation, and evaluation of the Unity-based XR project
 

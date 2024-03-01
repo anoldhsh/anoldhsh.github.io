@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Curving the Virtual Route: Applying Redirected Steering Gains for Active Locomotion in In-Car VR"
+# date:   2018-07-24 15:01:35 +0300
+image:  CurvingCar.gif
+tags:   2024_CHI_Conference_EA
+---
+
+* This study examines the feasibility of user-applied active locomotion in In-Car Virtual Reality (VR), overcoming the passivity in mobility of previous In-Car VR experiences where the virtual movement was synchronized with the real movement of the car.
+
+* We present the concept of virtual steering gains to quantify the magnitude of user-applied redirection from the real car's path. Through a user study where participants applied various levels of steering gains in an active virtual driving task, we assessed usability factors through measures of motion sickness, spatial presence, and overall acceptance.
+
+* Results indicate a range of acceptable steering gains in which active locomotion improves spatial presence without significantly increasing motion sickness. Future works will attempt to further validate a steering gain threshold in which active locomotion in In-Car VR can be applicable.

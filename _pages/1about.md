@@ -15,6 +15,11 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 #### Gwangju Institute of Science and Technology, Korea<br />
 * <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(September 2021 – August 2023)</small><br />
+
+#### Boston University, United States<br />
+* <strong>Exchange Student</strong> <small>(June 2018 – August 2018)</small>
+
+#### Gwangju Institute of Science and Technology, Korea<br />
 * <strong>Bachelor of Science (B.S.)</strong> - Department of Mechanical Engineering <small>(March 2017 – August 2021)</small>
 
 ***
@@ -69,7 +74,7 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 * <i><u>December 2019 – February 2020</u></i><br />
 * Industry-Academic Cooperation Scholarship in BA Energy Lab
 
-#### Scholarship for Overseas Summer Semester Exchange Students, USA
+#### Scholarship for Overseas Summer Semester Exchange Students, United States
 * <i><u>June 2018 – August 2018</u></i><br />
 * Boston University Summer Semester Exchange Student Scholarship
 

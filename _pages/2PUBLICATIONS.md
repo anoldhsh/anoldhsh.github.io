@@ -90,6 +90,28 @@ image: Publications_0731.jpg
 
 <div class="publication-container">
   <div class="publication-image">
+    <img src="/images/GaitWay.gif" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>GaitWay: Gait Data-Based VR Locomotion Prediction System Robust to Visual Distraction</b></font><br>
+    <font size="3" style="color:dark_gray;">Kim, Y., <strong>Hwang, S.</strong>, Oh, J., and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>Extended Abstracts of the 2024 CHI (Late-Breaking Work)</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div class="publication-image">
+    <img src="/images/CurvingCar.gif" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>Curving the Virtual Route: Applying Redirected Steering Gains for Active Locomotion in In-Car VR</b></font><br>
+    <font size="3" style="color:dark_gray;">Gim, B., Kang, S., Kim, G, Yeo, D., <strong>Hwang, S.</strong>, and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>Extended Abstracts of the 2024 CHI (Late-Breaking Work)</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
+<div class="publication-container">
+  <div class="publication-image">
     <img src="/images/OptiRDW.jpeg" alt="Research Image">
   </div>
   <div class="publication-text">
