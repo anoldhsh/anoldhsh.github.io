@@ -41,7 +41,6 @@ image: Publications_0731.jpg
     display: inline-block;
     padding: 2px 6px;
     background-color: #f0f0f0;
-    border: 1px solid #ddd;
     border-radius: 5px;
     font-size: 12px;
     color: #555;
@@ -95,7 +94,7 @@ image: Publications_0731.jpg
     cursor: pointer;
     padding: 4px 8px;
     background-color: #f0f0f0;
-    border: 1px solid #ddd;
+    border: 0px solid #ddd;
     border-radius: 5px;
     font-size: 15px;
     color: #555;
