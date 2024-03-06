@@ -6,10 +6,47 @@ image: Publications_0731.jpg
 ---
 
 <style>
+
   .publication-container {
+    transition: opacity 0.2s ease, max-height 0.2s ease, transform 0.3s ease;
     display: flex;
     align-items: center;
     gap: 20px;
+    padding: 5px;
+    opacity: 1;
+    max-height: 800px; /* Adjust this value based on your content's typical max height */
+    overflow: hidden; /* Ensures content does not overflow during scale animation */
+    transform: scaleY(1); /* Ensure the container is at its full size initially */
+    }
+
+  .hidden {
+    opacity: 0;
+    transform: scaleY(0);
+    max-height: 0;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    transition: opacity 0.2s ease, max-height 0.2s ease, transform 0.3s ease;
+  }
+
+  .publication-tags {
+    margin-top: 10px;
+    font-family: Arial, sans-serif;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+  }
+
+  .publication-tag {
+    display: inline-block;
+    padding: 2px 6px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 12px;
+    color: #555;
+    margin-right: 4px;
+    margin-bottom: 4px;
   }
 
   .publication-image {
@@ -48,13 +85,47 @@ image: Publications_0731.jpg
       aspect-ratio: 16 / 9;
     }
   }
+
+  /* Style for the tag filter buttons */
+  #tag-filters {
+    margin-bottom: 20px;
+  }
+
+  .tag-filter-btn {
+    cursor: pointer;
+    padding: 4px 8px;
+    background-color: #f0f0f0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    font-size: 15px;
+    color: #555;
+    margin-right: 4px;
+    margin-bottom: 4px;
+  }
+
+  .tag-filter-btn:hover {
+    background-color: #e0e0e0;
+  }
 </style>
-
-
 
 # CONFERENCES & PUBLICATIONS
 
-<div class="publication-container">
+<div id="tag-filters">
+  <button class="tag-filter-btn" data-filter="all">All</button>
+
+  <button class="tag-filter-btn" data-filter="Haptics">Haptics</button>
+  <button class="tag-filter-btn" data-filter="Locomotion">Locomotion_technics</button>
+  <button class="tag-filter-btn" data-filter="CarXR">Car_XR</button>
+
+  <button class="tag-filter-btn" data-filter="Conference">Conference</button>
+  <button class="tag-filter-btn" data-filter="Journal">Journal</button>
+  <button class="tag-filter-btn" data-filter="Poster&Workshop">Poster&Workshop</button>
+
+  <button class="tag-filter-btn" data-filter="FA">FA</button>
+  <button class="tag-filter-btn" data-filter="Award">Award</button>
+</div>
+
+<div class="publication-container" data-tags="Haptics Locomotion Journal">
   <div class="publication-image">
     <img src="/images/OLFRDW.jpeg" alt="Research Image">
   </div>
@@ -66,7 +137,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Haptics Conference FA">
   <div class="publication-image">
     <img src="/images/ErgoPulse.gif" alt="Research Image">
   </div>
@@ -77,7 +148,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Haptics CarXR Conference">
   <div class="publication-image">
     <img src="/images/SyncVR.png" alt="Research Image">
   </div>
@@ -88,7 +159,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Locomotion Poster&Workshop">
   <div class="publication-image">
     <img src="/images/GaitWay.gif" alt="Research Image">
   </div>
@@ -99,7 +170,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Locomotion CarXR Poster&Workshop">
   <div class="publication-image">
     <img src="/images/CurvingCar.gif" alt="Research Image">
   </div>
@@ -110,7 +181,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Locomotion Journal">
   <div class="publication-image">
     <img src="/images/OptiRDW.jpeg" alt="Research Image">
   </div>
@@ -121,7 +192,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Haptics Locomotion Conference FA Award">
   <div class="publication-image">
     <img src="/images/BCV_RDW.gif" alt="Research Image">
   </div>
@@ -133,7 +204,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="CarXR Conference Award">
   <div class="publication-image">
     <img src="/images/eHMI_AV.png" alt="Research Image">
   </div>
@@ -145,7 +216,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Haptics Locomotion Conference FA">
   <div class="publication-image">
     <img src="/images/GVS_BCV_CVS.gif" alt="Research Image">
   </div>
@@ -156,7 +227,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Haptics Locomotion Poster&Workshop FA">
   <div class="publication-image">
     <img src="/images/VSRDW.gif" alt="Research Image">
   </div>
@@ -167,7 +238,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container">
+<div class="publication-container" data-tags="Haptics Locomotion Poster&Workshop">
   <div class="publication-image">
     <img src="/images/OLFRDW_LBW.jpeg" alt="Research Image">
   </div>
@@ -207,3 +278,63 @@ image: Publications_0731.jpg
 <font size="3" style="color:dark_gray;">Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and <strong>Hwang, S.</strong></font><br>
 <font size="3" style="color:gray;"><u><i>Copyright for Computer Program Works C-2022-050133</i></u></font>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const tagColors = {
+    'Haptics': '#A3E4F2',
+		'Locomotion': '#FFDAB9',
+		'CarXR': '#A7FAC8',
+		'Conference': '#B0E0E6',
+		'Journal': '#CBF3D2',
+		'Poster&Workshop': '#89CFF0',
+		'FA': '#C3B1E1',
+		'Award': '#FFFACD',
+  };
+
+  const filterButtons = document.querySelectorAll('.tag-filter-btn');
+  filterButtons.forEach(function(btn) {
+    const filter = btn.getAttribute('data-filter');
+    const btnColor = tagColors[filter] || '#f0f0f0'; 
+    btn.style.backgroundColor = btnColor;
+    btn.style.fontWeight = 'bold'; 
+
+
+    btn.addEventListener('click', function() {
+      const publications = document.querySelectorAll('.publication-container');
+      publications.forEach(function(pub) {
+        if (filter === 'all' || pub.getAttribute('data-tags').split(' ').includes(filter)) {
+          pub.classList.remove('hidden');
+          pub.style.opacity = 1; 
+        } else {
+          pub.classList.add('hidden');
+          pub.style.opacity = 0;
+        }
+      });
+    });
+  });
+
+  const publications = document.querySelectorAll('.publication-container');
+  publications.forEach(function(pub) {
+    const tags = pub.getAttribute('data-tags').split(' ');
+    const tagsContainer = document.createElement('div');
+    tagsContainer.classList.add('publication-tags');
+
+    tags.forEach(function(tag) {
+      const tagElement = document.createElement('span');
+      tagElement.classList.add('publication-tag');
+      tagElement.textContent = tag;
+
+      const tagColor = tagColors[tag] || '#f0f0f0';
+      tagElement.style.backgroundColor = tagColor;
+      tagElement.style.fontWeight = 'bold';
+      tagsContainer.appendChild(tagElement);
+    });
+
+    const pubText = pub.querySelector('.publication-text');
+    if (pubText) {
+      pubText.insertBefore(tagsContainer, pubText.firstChild);
+    }
+  });
+});
+</script>

@@ -4,9 +4,45 @@ layout: default
 
 <style>
 	.publication-container {
+	  transition: opacity 0.2s ease, max-height 0.2s ease, transform 0.3s ease;
 	  display: flex;
 	  align-items: center;
 	  gap: 20px;
+	  padding: 30px;
+	  opacity: 1;
+	  max-height: 800px; /* Adjust this value based on your content's typical max height */
+	  overflow: hidden; /* Ensures content does not overflow during scale animation */
+	  transform: scaleY(1); /* Ensure the container is at its full size initially */
+	  }
+  
+	.hidden {
+	  opacity: 0;
+	  transform: scaleY(0);
+	  max-height: 0;
+	  padding: 0;
+	  margin: 0;
+	  overflow: hidden;
+	  transition: opacity 0.2s ease, max-height 0.2s ease, transform 0.3s ease;
+	}
+  
+	.publication-tags {
+	  margin-top: 10px;
+	  font-family: Arial, sans-serif;
+	  display: flex;
+	  flex-wrap: wrap;
+	  gap: 5px;
+	}
+  
+	.publication-tag {
+	  display: inline-block;
+	  padding: 2px 6px;
+	  background-color: #f0f0f0;
+	  border: 1px solid #ddd;
+	  border-radius: 5px;
+	  font-size: 12px;
+	  color: #555;
+	  margin-right: 4px;
+	  margin-bottom: 4px;
 	}
   
 	.publication-image {
@@ -45,6 +81,27 @@ layout: default
 		aspect-ratio: 16 / 9;
 	  }
 	}
+  
+	/* Style for the tag filter buttons */
+	#tag-filters {
+	  margin-bottom: 20px;
+	}
+  
+	.tag-filter-btn {
+	  cursor: pointer;
+	  padding: 4px 8px;
+	  background-color: #f0f0f0;
+	  border: 1px solid #ddd;
+	  border-radius: 5px;
+	  font-size: 15px;
+	  color: #555;
+	  margin-right: 4px;
+	  margin-bottom: 4px;
+	}
+  
+	.tag-filter-btn:hover {
+	  background-color: #e0e0e0;
+	}
 </style>
 
 {% include hero.html %}
@@ -75,8 +132,22 @@ layout: default
 			
 			<!-- Publication Section -->
 			<h1 style="text-align: left">Conference & Publication</h3>
-			<br>
-			<div class="publication-container">
+			<div id="tag-filters">
+				<button class="tag-filter-btn" data-filter="all">All</button>
+			  
+				<button class="tag-filter-btn" data-filter="Haptics">Haptics</button>
+				<button class="tag-filter-btn" data-filter="Locomotion">Locomotion_technics</button>
+				<button class="tag-filter-btn" data-filter="CarXR">Car_XR</button>
+			  
+				<button class="tag-filter-btn" data-filter="Conference">Conference</button>
+				<button class="tag-filter-btn" data-filter="Journal">Journal</button>
+				<button class="tag-filter-btn" data-filter="Poster&Workshop">Poster&Workshop</button>
+			  
+				<button class="tag-filter-btn" data-filter="FA">FA</button>
+				<button class="tag-filter-btn" data-filter="Award">Award</button>
+			  </div>
+			  
+			  <div class="publication-container" data-tags="Haptics Locomotion Journal">
 				<div class="publication-image">
 				  <img src="/images/OLFRDW.jpeg" alt="Research Image">
 				</div>
@@ -87,9 +158,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Virtual Reality</i></u> (Under Revision)</font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Haptics Conference FA">
 				<div class="publication-image">
 				  <img src="/images/ErgoPulse.gif" alt="Research Image">
 				</div>
@@ -99,9 +169,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Proceedings of the 2024 CHI</i></u> - <strong>(Accepted)</strong></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Haptics CarXR Conference">
 				<div class="publication-image">
 				  <img src="/images/SyncVR.png" alt="Research Image">
 				</div>
@@ -111,9 +180,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Proceedings of the 2024 CHI</i></u> - <strong>(Accepted)</strong></font>
 				</div>
 			  </div>
-			  <br>
-
-			  <div class="publication-container">
+			  
+			  <div class="publication-container" data-tags="Locomotion Poster&Workshop">
 				<div class="publication-image">
 				  <img src="/images/GaitWay.gif" alt="Research Image">
 				</div>
@@ -123,9 +191,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Extended Abstracts of the 2024 CHI (Late-Breaking Work)</i></u> - <strong>(Accepted)</strong></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Locomotion CarXR Poster&Workshop">
 				<div class="publication-image">
 				  <img src="/images/CurvingCar.gif" alt="Research Image">
 				</div>
@@ -135,9 +202,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Extended Abstracts of the 2024 CHI (Late-Breaking Work)</i></u> - <strong>(Accepted)</strong></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Locomotion Journal">
 				<div class="publication-image">
 				  <img src="/images/OptiRDW.jpeg" alt="Research Image">
 				</div>
@@ -147,9 +213,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Virtual Reality</i></u> - <a href="https://doi.org/10.1007/s10055-023-00935-4"><strong>Link</strong></a></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Haptics Locomotion Conference FA Award">
 				<div class="publication-image">
 				  <img src="/images/BCV_RDW.gif" alt="Research Image">
 				</div>
@@ -160,9 +225,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>2023 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)</i></u> - <a href="https://www.computer.org/csdl/proceedings-article/ismar/2023/283800b181/1SBIOSZTWlG"><strong>Link</strong></a></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="CarXR Conference Award">
 				<div class="publication-image">
 				  <img src="/images/eHMI_AV.png" alt="Research Image">
 				</div>
@@ -173,9 +237,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>AutomotiveUI 2023</i></u> - <a href="https://dl.acm.org/doi/10.1145/3580585.3606460"><strong>Link</strong></a></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Haptics Locomotion Conference FA">
 				<div class="publication-image">
 				  <img src="/images/GVS_BCV_CVS.gif" alt="Research Image">
 				</div>
@@ -185,9 +248,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Proceedings of the 2023 CHI</i></u> - <a href="https://dl.acm.org/doi/10.1145/3544548.3580862"><strong>Link</strong></a></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Haptics Locomotion Poster&Workshop FA">
 				<div class="publication-image">
 				  <img src="/images/VSRDW.gif" alt="Research Image">
 				</div>
@@ -197,9 +259,8 @@ layout: default
 				  <font size="3" style="color:gray;"><u><i>Extended Abstracts of the 2022 CHI (Late-Breaking Work)</i></u> - <a href="https://dl.acm.org/doi/10.1145/3491101.3519626"><strong>Link</strong></a></font>
 				</div>
 			  </div>
-			  <br>
 			  
-			  <div class="publication-container">
+			  <div class="publication-container" data-tags="Haptics Locomotion Poster&Workshop">
 				<div class="publication-image">
 				  <img src="/images/OLFRDW_LBW.jpeg" alt="Research Image">
 				</div>
@@ -208,7 +269,8 @@ layout: default
 				  <font size="3" style="color:dark_gray;">Lee, J., <strong>Hwang, S.</strong>, Kim, K., and Kim, S.</font><br>
 				  <font size="3" style="color:gray;"><u><i>Extended Abstracts of the 2022 CHI (Late-Breaking Work)</i></u> - <a href="https://dl.acm.org/doi/10.1145/3491101.3519719"><strong>Link</strong></a></font>
 				</div>
-			</div>
+			  </div>
+
 			<br><br>
 			<h4 class="lates-title"><a href='/PUBLICATIONS'><strong>MORE PUBLICATIONS</strong></a></h4>
 			<!-- End of Publication Section -->
@@ -234,3 +296,65 @@ layout: default
 	</div>
 </div>
 {% include pagination.html %}
+
+
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+	  const tagColors = {
+		'Haptics': '#A3E4F2',
+		'Locomotion': '#FFDAB9',
+		'CarXR': '#A7FAC8',
+		'Conference': '#B0E0E6',
+		'Journal': '#CBF3D2',
+		'Poster&Workshop': '#89CFF0',
+		'FA': '#C3B1E1',
+		'Award': '#FFFACD',
+	  };
+	
+	  const filterButtons = document.querySelectorAll('.tag-filter-btn');
+	  filterButtons.forEach(function(btn) {
+		const filter = btn.getAttribute('data-filter');
+		const btnColor = tagColors[filter] || '#f0f0f0'; 
+		btn.style.backgroundColor = btnColor;
+		btn.style.fontWeight = 'bold'; 
+	
+	
+		btn.addEventListener('click', function() {
+		  const publications = document.querySelectorAll('.publication-container');
+		  publications.forEach(function(pub) {
+			if (filter === 'all' || pub.getAttribute('data-tags').split(' ').includes(filter)) {
+			  pub.classList.remove('hidden');
+			  pub.style.opacity = 1; 
+			} else {
+			  pub.classList.add('hidden');
+			  pub.style.opacity = 0;
+			}
+		  });
+		});
+	  });
+	
+	  const publications = document.querySelectorAll('.publication-container');
+	  publications.forEach(function(pub) {
+		const tags = pub.getAttribute('data-tags').split(' ');
+		const tagsContainer = document.createElement('div');
+		tagsContainer.classList.add('publication-tags');
+	
+		tags.forEach(function(tag) {
+		  const tagElement = document.createElement('span');
+		  tagElement.classList.add('publication-tag');
+		  tagElement.textContent = tag;
+	
+		  const tagColor = tagColors[tag] || '#f0f0f0';
+		  tagElement.style.backgroundColor = tagColor;
+		  tagElement.style.fontWeight = 'bold';
+		  tagsContainer.appendChild(tagElement);
+		});
+	
+		const pubText = pub.querySelector('.publication-text');
+		if (pubText) {
+		  pubText.insertBefore(tagsContainer, pubText.firstChild);
+		}
+	  });
+	});
+</script>
+	
