@@ -114,7 +114,7 @@ image: Publications_0731.jpg
   <button class="tag-filter-btn" data-filter="all">All</button>
 
   <button class="tag-filter-btn" data-filter="Haptics">Haptics</button>
-  <button class="tag-filter-btn" data-filter="Locomotion">Locomotion_technics</button>
+  <button class="tag-filter-btn" data-filter="Locomotion">Locomotion_technique</button>
   <button class="tag-filter-btn" data-filter="CarXR">Car_XR</button>
 
   <button class="tag-filter-btn" data-filter="Conference">Conference</button>
