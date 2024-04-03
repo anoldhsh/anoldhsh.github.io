@@ -114,7 +114,7 @@ image: Publications_0731.jpg
 
   <button class="tag-filter-btn" data-filter="Haptics">Haptics</button>
   <button class="tag-filter-btn" data-filter="Locomotion">Locomotion_technique</button>
-  <button class="tag-filter-btn" data-filter="CarXR">Car_XR</button>
+  <button class="tag-filter-btn" data-filter="AutomotiveUX">Automotive_UI_UX</button>
 
   <button class="tag-filter-btn" data-filter="Conference">Conference</button>
   <button class="tag-filter-btn" data-filter="Journal">Journal</button>
@@ -147,7 +147,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container" data-tags="Haptics CarXR Conference">
+<div class="publication-container" data-tags="Haptics AutomotiveUX Conference">
   <div class="publication-image">
     <img src="/images/SyncVR.png" alt="Research Image">
   </div>
@@ -169,7 +169,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container" data-tags="Locomotion CarXR Poster&Workshop">
+<div class="publication-container" data-tags="Locomotion AutomotiveUX Poster&Workshop">
   <div class="publication-image">
     <img src="/images/CurvingCar.gif" alt="Research Image">
   </div>
@@ -203,7 +203,7 @@ image: Publications_0731.jpg
   </div>
 </div>
 
-<div class="publication-container" data-tags="CarXR Conference Award">
+<div class="publication-container" data-tags="AutomotiveUX Conference Award">
   <div class="publication-image">
     <img src="/images/eHMI_AV.png" alt="Research Image">
   </div>
@@ -283,7 +283,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const tagColors = {
     'Haptics': '#A3E4F2',
 		'Locomotion': '#FFDAB9',
-		'CarXR': '#A7FAC8',
+		'AutomotiveUX': '#A7FAC8',
 		'Conference': '#B0E0E6',
 		'Journal': '#CBF3D2',
 		'Poster&Workshop': '#89CFF0',
