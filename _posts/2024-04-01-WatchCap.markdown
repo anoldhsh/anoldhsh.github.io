@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "WatchCap: Improving Scanning Efficiency in People with Low Vision through Compensatory Head Movement Stimulation"
+# date:   2018-07-24 15:01:35 +0300
+image:  WatchCap.png
+tags:   2024_IMWUT_Conference
+---
+* Individuals with low vision (LV) frequently face challenges in scanning performance, which in turn complicates daily activities requiring visual recognition.
+
+* Although those with PVL can theoretically compensate for these scanning deficiencies through the use of active head movements, few practical applications have sought to capitalize on this potential, especially during visual recognition tasks.
+
+* In this paper, we present WatchCap, a novel device that leverages the hanger reflex phenomenon to naturally elicit head movements through stimulation feedback.
+
+* Our user studies, conducted with both sighted individuals in a simulated environment and people with glaucoma-related PVL, demonstrated that WatchCap's scanning-contingent stimulation enhances visual exploration. This improvement is evidenced by the fixation and saccade-related features and positive feedback from participants, which did not cause discomfort to the users.
+
+* This study highlights the promise of facilitating head movements to aid those with LVs in visual recognition tasks. Critically, since WatchCap functions independently of predefined or task-specific cues, it has a wide scope of applicability, even in ambient task situations. This independence positions WatchCap to complement existing tools aimed at detailed visual information acquisition, allowing integration with existing tools and facilitating a comprehensive approach to assisting individuals with LV.

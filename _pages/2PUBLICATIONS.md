@@ -113,8 +113,9 @@ image: Publications_0731.jpg
   <button class="tag-filter-btn" data-filter="all">All</button>
 
   <button class="tag-filter-btn" data-filter="Haptics">Haptics</button>
-  <button class="tag-filter-btn" data-filter="Locomotion">Locomotion_technique</button>
+  <button class="tag-filter-btn" data-filter="Locomotion">Locomotion</button>
   <button class="tag-filter-btn" data-filter="AutomotiveUX">Automotive_UI_UX</button>
+  <button class="tag-filter-btn" data-filter="Accessibility">Accessibility</button>
 
   <button class="tag-filter-btn" data-filter="Conference">Conference</button>
   <button class="tag-filter-btn" data-filter="Journal">Journal</button>
@@ -122,6 +123,17 @@ image: Publications_0731.jpg
 
   <button class="tag-filter-btn" data-filter="FA">FA</button>
   <button class="tag-filter-btn" data-filter="Award">Award</button>
+</div>
+
+<div class="publication-container" data-tags="Haptics Accessibility Conference">
+  <div class="publication-image">
+    <img src="/images/WatchCap.png" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>WatchCap: Improving Scanning Efficiency in People with Low Vision through Compensatory Head Movement Stimulation</b></font><br>
+    <font size="3" style="color:dark_gray;">Jo, T., Yeo, D., Kim, G., <strong>Hwang, S.</strong>, and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>Proceedings of the ACM on IMWUT</i></u> - <strong>(Accepted)</strong></font>
+  </div>
 </div>
 
 <div class="publication-container" data-tags="Haptics Locomotion Journal">
@@ -285,6 +297,7 @@ document.addEventListener('DOMContentLoaded', function() {
 		'Locomotion': '#FFDAB9',
 		'AutomotiveUX': '#A7FAC8',
 		'Conference': '#B0E0E6',
+    'Accessibility': '#FFD580',
 		'Journal': '#CBF3D2',
 		'Poster&Workshop': '#89CFF0',
 		'FA': '#C3B1E1',
