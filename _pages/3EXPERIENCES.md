@@ -6,8 +6,12 @@ image: Experiences.jpeg
 ---
 
 # RESEARCH EXPERIENCE
+
+#### ACE Lab, University of Washington
+* <i><u>Ph.D. (Advisor: <a href="https://faculty.washington.edu/wobbrock/"><strong>Jacob O. Wobbrock</strong></a>) (September 2024 – Present)</u></i><br />
+
 #### Human-Centered Intelligence Systems Lab, Korea (GIST)
-* <i><u>Research Associates (September 2023 – present)</u></i><br />
+* <i><u>Research Associates (September 2023 – August 2024)</u></i><br />
 * <i><u>M.S. (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) (September 2021 – August 2023)</u></i><br />
 * Intelligent Robotics, Institute of Integrated Technology<br />
 * Development of redirection enhancement system using galvanic vestibular stimulation<br />
