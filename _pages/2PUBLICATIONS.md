@@ -125,6 +125,28 @@ image: Publications_0731.jpg
   <button class="tag-filter-btn" data-filter="Award">Award</button>
 </div>
 
+<div class="publication-container" data-tags="Haptics Accessibility Poster&Workshop">
+  <div class="publication-image">
+    <img src="/images/HapticWalker.jpeg" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>Intelligence Walker: A Seamless Mobility Assist Device for the Elderly</b></font><br>
+    <font size="3" style="color:dark_gray;">Choi, Y., Yeo, D., <strong>Hwang, S.</strong>, Seong, M., Moon, J., Yiyue Luo, Wojciech Matusik, Daniela Rus, and Kim, K.</font><br>
+    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
+<div class="publication-container" data-tags="Haptics Poster&Workshop">
+  <div class="publication-image">
+    <img src="/images/FlipPelt.png" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>Dual-sided Peltier Elements for Rapid Thermal Feedback in Wearables</b></font><br>
+    <font size="3" style="color:dark_gray;">Kang, S., Kim, G., <strong>Hwang, S.</strong>, Park, J., Elsharkawy, A., and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
 <div class="publication-container" data-tags="Haptics Accessibility Conference">
   <div class="publication-image">
     <img src="/images/WatchCap.png" alt="Research Image">
