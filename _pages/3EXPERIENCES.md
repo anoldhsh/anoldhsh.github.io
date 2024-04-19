@@ -7,7 +7,7 @@ image: Experiences.jpeg
 
 # RESEARCH EXPERIENCE
 
-#### ACE Lab, University of Washington
+#### ACE Lab, University of Washington (Expected)
 * <i><u>Ph.D. (Advisor: <a href="https://faculty.washington.edu/wobbrock/"><strong>Jacob O. Wobbrock</strong></a>) (September 2024 – Present)</u></i><br />
 
 #### Human-Centered Intelligence Systems Lab, Korea (GIST)
