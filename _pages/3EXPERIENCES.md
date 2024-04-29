@@ -47,14 +47,11 @@ image: Experiences.jpeg
 * Responsible for teaching, exam preparation, and evaluation of the Unity-based XR project
 
 #### 2019 GIST Global Science Camp in Laos, <a href="https://www.nuol.edu.la/index.php/en">National University of Laos (NUOL)</a>
-* <i><u>July 2019</u></i><br />
-* Experiment Instructor (Educational volunteer)
+* <i><u>Experiment Instructor (Educational volunteer) (July 2019)</u></i><br />
 * Educational volunteer for students of the <a href="https://www.nuol.edu.la/index.php/en"><strong>National University of Laos</strong></a> and <a href="https://www.kku.ac.th"><strong>Khon Kaen University</strong></a> of Thailand
 * Teaching Assist in the production of Dye-Sensitized Solar Cells using Anthocyanin
 * Experimental Assist in efficiency measurement and verification of Dye-Sensitized Solar Cells
 
 #### 2019 GIST Science Camp, Korea (GIST)
-* <i><u>January 2019</u></i><br />
-* Experiment Team Leader (Educational volunteer)
-* Design Team Leader
+* <i><u>Experiment & Design Team Leader (Educational volunteer) (January 2019)</u></i><br />
 * Providing experimental and theoretical education to elementary and middle school students in the community
