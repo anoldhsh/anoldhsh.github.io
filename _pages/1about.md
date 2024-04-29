@@ -13,7 +13,7 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 # EDUCATION
 
-#### University of Washington, United States<br />
+#### University of Washington, United States <small>(Expected)</small><br />
 * <strong>Doctor of Philosophy (Ph.D.)</strong> - Information Science, Information School <small>(September 2024 – Present)</small><br />
 
 #### Gwangju Institute of Science and Technology, Korea<br />
@@ -48,6 +48,14 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 ***
 
 # AWARDS & HONORS
+
+#### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems, ACM
+* <i><u>May 2024</u></i><br />
+* Honorable mention for being in the top 5% of conference papers <i>(ErgoPulse)</i>
+
+#### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems, ACM
+* <i><u>May 2024</u></i><br />
+* Honorable mention for being in the top 5% of conference papers <i>(SYNC-VR)</i>
 
 #### Honorable Mentions, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE
 * <i><u>October 2023</u></i><br />
