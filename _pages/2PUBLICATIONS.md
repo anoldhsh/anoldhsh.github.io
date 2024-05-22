@@ -143,7 +143,7 @@ image: Publications_0731.jpg
   <div class="publication-text">
     <font size="4"><b>Dual-sided Peltier Elements for Rapid Thermal Feedback in Wearables</b></font><br>
     <font size="3" style="color:dark_gray;">Kang, S., Kim, G., <strong>Hwang, S.</strong>, Park, J., Elsharkawy, A., and Kim, S.</font><br>
-    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u> - <strong>(Accepted)</strong></font>
+    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u> - <a href="https://arxiv.org/abs/2405.11807"><strong>Link</strong></a></font>
   </div>
 </div>
 
