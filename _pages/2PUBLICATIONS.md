@@ -132,7 +132,7 @@ image: Publications_0731.jpg
   <div class="publication-text">
     <font size="4"><b>Intelligence Walker: A Seamless Mobility Assist Device for the Elderly</b></font><br>
     <font size="3" style="color:dark_gray;">Choi, Y., Yeo, D., <strong>Hwang, S.</strong>, Seong, M., Moon, J., Yiyue Luo, Wojciech Matusik, Daniela Rus, and Kim, K.</font><br>
-    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u> - <strong>(Accepted)</strong></font>
+    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u></font>
   </div>
 </div>
 
