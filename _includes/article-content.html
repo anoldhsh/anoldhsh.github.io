@@ -3,45 +3,79 @@
 <div class="article">
   <div class="container">
 
-    <div class="article__wrapper">
-
-        {% if post.image %}
-          <a href="{{post.url | prepend: site.baseurl}}" class="article__image" style="background-image: url({{site.baseurl}}/images/{{post.image}})">
-          </a>
-        {% else %}
-          {% assign without-image = 'article-without-image' %}
-        {% endif %}
-
-        <div class="article__content {{ without-image }}">
-          <div class="article-tags">
-          {% if post.tags.size >= 1 %}
-            <div class="article-tags__box">
-              {% for tag in post.tags %}
-                <a href="{{ site.baseurl }}/tag/{{ tag | downcase | replace: " ", "-" }}" class="article__tag">{{ tag }}</a>
-              {% endfor %}
-            </div>
-          {% else %}
-          {% endif %}
+    <div class="article__wrapper" style="display: flex; flex-wrap: wrap;">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="article__image" style="flex: 1 1 100%; background-image: url({{ site.baseurl }}/images/{{ post.image }})">
+          <div class="image-overlay">
+            <h2 class="article__title-hover">{{ post.title }}</h2>
           </div>
-      
-          <h2 class="article__title">
-            <a href="{{ post.url | prepend: site.baseurl }}">{{post.title}}</a>
-          </h2>
-      
-          <p class="article__excerpt">{% if post.description %}{{ post.description }}{% else %}{{ post.content | strip_html | truncate: 185 }}{% endif %}</p>
-          
-          <div class="article__footer">
-            <div class="article__meta">
-              <span class="article__date"><time datetime="{{ post.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%B %-d, %Y" %}{{ post.date | date: date_format }}</time></span>
-            </div>
+        </a>
+    </div>
 
-            <a href="{{post.url | prepend: site.baseurl}}" class="read-more">Keep Reading <i class="ion ion-ios-arrow-forward"></i></a>
-          </div>
-
-        </div>
-
-      </div>
-      
   </div>
 </div>
 <!-- end article -->
+
+<style>
+  .article__wrapper {
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+  }
+
+  .article__image {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    
+  }
+
+  .article__image:hover {
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .image-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5); /* Adjust overlay color and opacity as needed */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+
+    width: 100%;
+    height: auto;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .article__image:hover .image-overlay {
+    opacity: 1;
+  }
+
+  .article__title-hover {
+    color: #fff; /* Adjust text color as needed */
+    font-size: 15px; /* Adjust font size as needed */
+    margin: 0;
+    padding: 15px;
+    transition: opacity 0.3s ease-in-out;
+  }
+
+  .article__image:hover .article__title-hover {
+    opacity: 1;
+  }
+</style>

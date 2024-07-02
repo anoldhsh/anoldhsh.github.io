@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Interactive XR System for In-Car Environments Using Natural User Interface
+title:  Natural User Interface-Based Interactive XR System for In-Car Environments
 # date:   2018-07-24 15:01:35 +0300
 image:  CarXR.gif
 tags:   Master's_project

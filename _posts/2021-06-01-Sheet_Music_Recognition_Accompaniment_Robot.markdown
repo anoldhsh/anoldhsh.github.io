@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Creating an Accompaniment Robot that Can Automatically Recognize Sheet Music
+title:  Sheet Music Recognition Robot for Automatic Accompaniment
 # date:   2018-07-24 15:01:35 +0300
 image:  PianoRobot.gif
 tags:   Undergraduate_project

@@ -5,98 +5,133 @@ permalink: /ABOUT/
 image: About.jpeg
 ---
 
-Hello! My name is Seokhyun (Shawn) Hwang, and I'm a <strong>Ph.D. student in Information Science</strong> at the <a href="https://www.washington.edu/"><strong>University of Washington</strong></a> in the <a href="https://depts.washington.edu/acelab/"><strong>ACE Lab</strong></a> (Advisor: <a href="https://faculty.washington.edu/wobbrock/"><strong>Jacob O. Wobbrock</strong></a>). I have completed my Master's degree in the Intelligent Robotics Program <a href="https://sites.google.com/view/gist-hcis-lab"><strong>HCIS Lab</strong></a> (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) in <a href="https://www.gist.ac.kr/en/main.html"><strong>GIST</strong></a>, Korea. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. Specifically, I am interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices.
+Hello! My name is Seokhyun (Shawn) Hwang, and I'm a <strong>Ph.D. student in Information
+Science</strong> at the <a href="https://www.washington.edu/"
+              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>University of
+Washington</strong></a> in the <a href="https://depts.washington.edu/acelab/"
+              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>ACE Lab</strong></a> (Advisor:
+<a href="https://faculty.washington.edu/wobbrock/"
+              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>Jacob O.
+Wobbrock</strong></a>). I completed my Master's degree in the Intelligent Robotics Program at
+<a href="https://www.gist.ac.kr/en/main.html"
+              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>GIST</strong></a>, <a
+              href="https://sites.google.com/view/gist-hcis-lab"
+              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>HCIS Lab</strong></a>
+(Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"
+              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>SeungJun Kim</strong></a>) in Korea.
+Explore more about me: <a href='/ABOUT'><strong>ABOUT</strong></a>, <a href='/PUBLICATIONS'><strong>PUBLICATIONS</strong></a>, <a
+              href='/EXPERIENCES'><strong>EXPERIENCES</strong></a>, and <a
+              href='/EXTRAS'><strong>EXTRA
+ACTIVITIES</strong></a>. My research interests lie in the field of Human-Computer Interaction and Virtual/Augmented Reality systems. Specifically, I am interested in exploring the interactions between humans and VR/AR systems, and how we can create more realistic and immersive experiences through the use of hardware devices.
 
 I have been working on developing my own VR locomotion method and haptic feedback device, which I am building with my understanding of circuits and mechanics. My goal is to create a device that can enhance the user's sense of presence and immersion in virtual environments.
 
-***
+---
 
 # EDUCATION
 
 #### University of Washington, United States <small>(Expected)</small><br />
-* <strong>Doctor of Philosophy (Ph.D.)</strong> - Information Science, Information School <small>(September 2024 – Present)</small><br />
+
+- <strong>Doctor of Philosophy (Ph.D.)</strong> - Information Science, Information School <small>(September 2024 – Present)</small><br />
 
 #### Gwangju Institute of Science and Technology, Korea<br />
-* <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(September 2021 – August 2023)</small><br />
+
+- <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(September 2021 – August 2023)</small><br />
 
 #### Boston University, United States<br />
-* <strong>Exchange Student</strong> <small>(June 2018 – August 2018)</small>
+
+- <strong>Exchange Student</strong> <small>(June 2018 – August 2018)</small>
 
 #### Gwangju Institute of Science and Technology, Korea<br />
-* <strong>Bachelor of Science (B.S.)</strong> - Department of Mechanical Engineering <small>(March 2017 – August 2021)</small>
 
-***
+- <strong>Bachelor of Science (B.S.)</strong> - Department of Mechanical Engineering <small>(March 2017 – August 2021)</small>
+
+---
 
 # TECHNICAL STRENGTHS
 
 #### Modeling & Designing
-* Autodesk Inventor
-* Fusion 360
-* SolidWorks
-* Blender
-* KiCad
+
+- Autodesk Inventor
+- Fusion 360
+- SolidWorks
+- Blender
+- KiCad
 
 #### Software & Tools
-* Unity
-* MATLAB
-* LABVIEW
-* COMSOL Multiphysics
-* Cubase
-* Adobe Premiere Pro
-* Final Cut Pro
 
-***
+- Unity
+- MATLAB
+- LABVIEW
+- COMSOL Multiphysics
+- Cubase
+- Adobe Premiere Pro
+- Final Cut Pro
+
+---
 
 # AWARDS & HONORS
 
 #### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems, ACM
-* <i><u>May 2024</u></i><br />
-* Honorable mention for being in the top 5% of conference papers <i>(ErgoPulse)</i>
+
+- <i><u>May 2024</u></i><br />
+- Honorable mention for being in the top 5% of conference papers <i>(ErgoPulse)</i>
 
 #### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems, ACM
-* <i><u>May 2024</u></i><br />
-* Honorable mention for being in the top 5% of conference papers <i>(SYNC-VR)</i>
+
+- <i><u>May 2024</u></i><br />
+- Honorable mention for being in the top 5% of conference papers <i>(SYNC-VR)</i>
 
 #### Honorable Mentions, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE
-* <i><u>October 2023</u></i><br />
-* Honorable mention for being in the top 1% of conference papers
+
+- <i><u>October 2023</u></i><br />
+- Honorable mention for being in the top 1% of conference papers
 
 #### Honorable Mentions, International ACM Conference on AutomotiveUI, ACM
-* <i><u>September 2023</u></i><br />
-* Honorable mention for being in the top 5% of conference papers
+
+- <i><u>September 2023</u></i><br />
+- Honorable mention for being in the top 5% of conference papers
 
 #### Special Recognitions, ACM Symposium on User Interface Software and Technology (UIST), ACM
-* <i><u>May 2023</u></i><br />
-* Special Recognitions for Outstanding Reviews in 2023 UIST
+
+- <i><u>May 2023</u></i><br />
+- Special Recognitions for Outstanding Reviews in 2023 UIST
 
 #### Government supported Scholarship, Korea
-* <i><u>September 2021 – June 2023</u></i><br />
-* Master's Degree Government Scholarship
+
+- <i><u>September 2021 – June 2023</u></i><br />
+- Master's Degree Government Scholarship
 
 #### President Award, Korea (GIST)
-* <i><u>August 2020</u></i><br />
-* 1st prize in table tennis robot at the 4th GIST Creative Convergence Competition in 2020
+
+- <i><u>August 2020</u></i><br />
+- 1st prize in table tennis robot at the 4th GIST Creative Convergence Competition in 2020
 
 #### Scholarship for Academic Excellence, Korea
-* <i><u>September 2020 – December 2020</u></i><br />
-* GIST Scholarship for Academic Excellence
+
+- <i><u>September 2020 – December 2020</u></i><br />
+- GIST Scholarship for Academic Excellence
 
 #### Industry-Academic Cooperation Scholarship, Korea
-* <i><u>December 2019 – February 2020</u></i><br />
-* Industry-Academic Cooperation Scholarship in BA Energy Lab
+
+- <i><u>December 2019 – February 2020</u></i><br />
+- Industry-Academic Cooperation Scholarship in BA Energy Lab
 
 #### Scholarship for Overseas Summer Semester Exchange Students, United States
-* <i><u>June 2018 – August 2018</u></i><br />
-* Boston University Summer Semester Exchange Student Scholarship
+
+- <i><u>June 2018 – August 2018</u></i><br />
+- Boston University Summer Semester Exchange Student Scholarship
 
 #### Government supported Scholarship, Korea
-* <i><u>March 2017 – August 2021</u></i><br />
-* GIST Bachelor's Degree Government Scholarship
 
-***
+- <i><u>March 2017 – August 2021</u></i><br />
+- GIST Bachelor's Degree Government Scholarship
+
+---
 
 # INVITED TALKS
 
 #### HCI Korea’24 Top-conference Sessions, ACM SIGCHI (Korea Local Chapter)
-* <i><u>January 2024</u></i><br />
-* Presentation of Vestibular Stimuli-Based Redirected Walking Research at a HCI Korea’24 Top-Conference Invited Talk Session.
+
+- <i><u>January 2024</u></i><br />
+- Presentation of Vestibular Stimuli-Based Redirected Walking Research at a HCI Korea’24 Top-Conference Invited Talk Session.

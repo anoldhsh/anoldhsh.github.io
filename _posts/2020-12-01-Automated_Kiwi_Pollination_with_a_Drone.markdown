@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Designing a Drone for Automated Kiwi Pollination
+title:  Automated Drone Design for Kiwi Pollination
 # date:   2018-07-24 15:01:35 +0300
 image:  KiwiDron.jpeg
 tags:   Undergraduate_project

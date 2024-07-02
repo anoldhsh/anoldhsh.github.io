@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Vision-Based Automatic Table Tennis Machine
+title:  Vision-Driven Autonomous Table Tennis System
 # date:   2018-07-24 15:01:35 +0300
 image:  TableTennis.gif
 tags:   Undergraduate_project

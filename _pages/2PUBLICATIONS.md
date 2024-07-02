@@ -5,6 +5,75 @@ permalink: /PUBLICATIONS/
 image: Publications_0731.jpg
 ---
 
+<script>
+	document.addEventListener('DOMContentLoaded', function() {
+	  const tagColors = {
+		'Haptics': '#A3E4F2',
+		'Locomotion': '#FFDAB9',
+		'AutomotiveUX': '#A7FAC8',
+		'Accessibility': '#FFD580',
+		'Conference': '#B0E0E6',
+		'Journal': '#CBF3D2',
+		'Poster&Workshop': '#89CFF0',
+		'FA': '#C3B1E1',
+		'Award': '#FFFACD',
+	  };
+	
+	  const filterButtons = document.querySelectorAll('.tag-filter-btn');
+	  filterButtons.forEach(function(btn) {
+		const filter = btn.getAttribute('data-filter');
+		const btnColor = tagColors[filter] || '#f0f0f0'; 
+		btn.style.backgroundColor = btnColor;
+		btn.style.fontWeight = 'bold'; 
+	
+		btn.addEventListener('click', function() {
+		  // 모든 버튼에서 active 클래스를 제거
+		  filterButtons.forEach(function(b) {
+			b.classList.remove('active');
+		  });
+		  
+		  if (filter !== 'all') {
+          btn.classList.add('active');
+          }
+	
+		  const publications = document.querySelectorAll('.publication-container');
+		  publications.forEach(function(pub) {
+			if (filter === 'all' || pub.getAttribute('data-tags').split(' ').includes(filter)) {
+			  pub.classList.remove('hidden');
+			  pub.style.opacity = 1; 
+			} else {
+			  pub.classList.add('hidden');
+			  pub.style.opacity = 0;
+			}
+		  });
+		});
+	  });
+	
+	  const publications = document.querySelectorAll('.publication-container');
+	  publications.forEach(function(pub) {
+		const tags = pub.getAttribute('data-tags').split(' ');
+		const tagsContainer = document.createElement('div');
+		tagsContainer.classList.add('publication-tags');
+	
+		tags.forEach(function(tag) {
+		  const tagElement = document.createElement('span');
+		  tagElement.classList.add('publication-tag');
+		  tagElement.textContent = tag;
+	
+		  const tagColor = tagColors[tag] || '#f0f0f0';
+		  tagElement.style.backgroundColor = tagColor;
+		  tagElement.style.fontWeight = 'bold';
+		  tagsContainer.appendChild(tagElement);
+		});
+	
+		const pubText = pub.querySelector('.publication-text');
+		if (pubText) {
+		  pubText.insertBefore(tagsContainer, pubText.firstChild);
+		}
+	  });
+	});
+</script>
+
 <style>
 
   .publication-container {
@@ -54,7 +123,7 @@ image: Publications_0731.jpg
   }
 
   .publication-text {
-    flex: 2;
+    flex: 3;
     font-family: Arial, sans-serif;
     color: #333;
     line-height: 1.5;
@@ -86,43 +155,51 @@ image: Publications_0731.jpg
   }
 
   /* Style for the tag filter buttons */
-  #tag-filters {
-    margin-bottom: 20px;
-  }
+  /* Style for the tag filter buttons */
+	#tag-filters {
+	  margin-bottom: 20px;
+	}
+  
+	.tag-filter-btn {
+	  cursor: pointer;
+	  padding: 4px 8px;
+	  background-color: #f0f0f0;
+	  border: 0px solid #ddd;
+	  border-radius: 5px;
+	  font-size: 15px;
+	  color: #555;
+	  margin-right: 8px;
+	  margin-bottom: 8px;
+	  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+	}
+  
+	.tag-filter-btn:hover {
+	  scale: 1.05;
+	  transition: scale 0.1s ease-in-out;
+	}
 
-  .tag-filter-btn {
-    cursor: pointer;
-    padding: 4px 8px;
-    background-color: #f0f0f0;
-    border: 0px solid #ddd;
-    border-radius: 5px;
-    font-size: 15px;
-    color: #555;
-    margin-right: 4px;
-    margin-bottom: 4px;
-  }
-
-  .tag-filter-btn:hover {
-    background-color: #e0e0e0;
-  }
+	.tag-filter-btn.active {
+    border: 2px solid #555;
+    }
 </style>
 
 # CONFERENCES & PUBLICATIONS
 
 <div id="tag-filters">
-  <button class="tag-filter-btn" data-filter="all">All</button>
+  <button class="tag-filter-btn" data-filter="all">Reset_Filter</button>
 
-  <button class="tag-filter-btn" data-filter="Haptics">Haptics</button>
-  <button class="tag-filter-btn" data-filter="Locomotion">Locomotion</button>
-  <button class="tag-filter-btn" data-filter="AutomotiveUX">Automotive_UI_UX</button>
-  <button class="tag-filter-btn" data-filter="Accessibility">Accessibility</button>
+<button class="tag-filter-btn" data-filter="Haptics">Haptics</button>
+<button class="tag-filter-btn" data-filter="Locomotion">Locomotion</button>
+<button class="tag-filter-btn" data-filter="AutomotiveUX">Automotive_UI_UX</button>
+<button class="tag-filter-btn" data-filter="Accessibility">Accessibility</button>
 
-  <button class="tag-filter-btn" data-filter="Conference">Conference</button>
-  <button class="tag-filter-btn" data-filter="Journal">Journal</button>
-  <button class="tag-filter-btn" data-filter="Poster&Workshop">Poster&Workshop</button>
+<button class="tag-filter-btn" data-filter="Conference">Conference</button>
+<button class="tag-filter-btn" data-filter="Journal">Journal</button>
+<button class="tag-filter-btn" data-filter="Poster&Workshop">Poster&Workshop</button>
 
-  <button class="tag-filter-btn" data-filter="FA">FA</button>
-  <button class="tag-filter-btn" data-filter="Award">Award</button>
+<button class="tag-filter-btn" data-filter="FA">FA</button>
+<button class="tag-filter-btn" data-filter="Award">Award</button>
+
 </div>
 
 <div class="publication-container" data-tags="Haptics Accessibility Poster&Workshop">
@@ -313,64 +390,3 @@ image: Publications_0731.jpg
 <font size="3" style="color:dark_gray;">Kim, S., Kang, S., Kang, Y., Kim, K., Seong, M., An, E., Yang, H., Yeo, D., Oh, J., Jeon, H., Jo, T., and <strong>Hwang, S.</strong></font><br>
 <font size="3" style="color:gray;"><u><i>Copyright for Computer Program Works C-2022-050133</i></u></font>
 </div>
-
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-  const tagColors = {
-    'Haptics': '#A3E4F2',
-		'Locomotion': '#FFDAB9',
-		'AutomotiveUX': '#A7FAC8',
-		'Conference': '#B0E0E6',
-    'Accessibility': '#FFD580',
-		'Journal': '#CBF3D2',
-		'Poster&Workshop': '#89CFF0',
-		'FA': '#C3B1E1',
-		'Award': '#FFFACD',
-  };
-
-  const filterButtons = document.querySelectorAll('.tag-filter-btn');
-  filterButtons.forEach(function(btn) {
-    const filter = btn.getAttribute('data-filter');
-    const btnColor = tagColors[filter] || '#f0f0f0'; 
-    btn.style.backgroundColor = btnColor;
-    btn.style.fontWeight = 'bold'; 
-
-
-    btn.addEventListener('click', function() {
-      const publications = document.querySelectorAll('.publication-container');
-      publications.forEach(function(pub) {
-        if (filter === 'all' || pub.getAttribute('data-tags').split(' ').includes(filter)) {
-          pub.classList.remove('hidden');
-          pub.style.opacity = 1; 
-        } else {
-          pub.classList.add('hidden');
-          pub.style.opacity = 0;
-        }
-      });
-    });
-  });
-
-  const publications = document.querySelectorAll('.publication-container');
-  publications.forEach(function(pub) {
-    const tags = pub.getAttribute('data-tags').split(' ');
-    const tagsContainer = document.createElement('div');
-    tagsContainer.classList.add('publication-tags');
-
-    tags.forEach(function(tag) {
-      const tagElement = document.createElement('span');
-      tagElement.classList.add('publication-tag');
-      tagElement.textContent = tag;
-
-      const tagColor = tagColors[tag] || '#f0f0f0';
-      tagElement.style.backgroundColor = tagColor;
-      tagElement.style.fontWeight = 'bold';
-      tagsContainer.appendChild(tagElement);
-    });
-
-    const pubText = pub.querySelector('.publication-text');
-    if (pubText) {
-      pubText.insertBefore(tagsContainer, pubText.firstChild);
-    }
-  });
-});
-</script>
