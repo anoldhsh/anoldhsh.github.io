@@ -202,14 +202,28 @@ image: Publications_0731.jpg
 
 </div>
 
+<div class="publication-container" data-tags="AutomotiveUX Conference">
+  <div class="publication-image">
+    <img src="/images/TimelyTale.png" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>TimelyTale: A Multimodal Dataset Assessing Passenger's Demands for Explanations in Highly Automated Vehicles </b></font>
+    <br>
+    <font size="3" style="color:dark_gray;">Kim, G., <strong>Hwang, S.</strong>, Seong, M., Yeo, D., Daniela Rus, and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>Proceedings of the ACM on IMWUT</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
 <div class="publication-container" data-tags="Haptics Accessibility Poster&Workshop">
   <div class="publication-image">
     <img src="/images/HapticWalker.jpeg" alt="Research Image">
   </div>
   <div class="publication-text">
-    <font size="4"><b>Intelligence Walker: A Seamless Mobility Assist Device for the Elderly</b></font><br>
-    <font size="3" style="color:dark_gray;">Choi, Y., Yeo, D., <strong>Hwang, S.</strong>, Seong, M., Moon, J., Yiyue Luo, Wojciech Matusik, Daniela Rus, and Kim, K.</font><br>
-    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u></font>
+    <font size="4"><b>Intelligence Walker: A Seamless Mobility Assist Device for the Elderly</b></font>
+    <br>
+    <font size="3" style="color:dark_gray;">Choi, Y., Yeo, D., <strong>Hwang, S.</strong>, Seong, M.,
+      Moon, J., Yiyue Luo, Wojciech Matusik, Daniela Rus, and Kim, K.</font><br>
+    <font size="3" style="color:gray;"><u><i>2024 IEEE ICRA Workshop on Wearable</i></u> - <a href="https://sites.google.com/view/icra-2024-wearable-workshop/proceedings"><strong>Link</strong></a></font>
   </div>
 </div>
 
