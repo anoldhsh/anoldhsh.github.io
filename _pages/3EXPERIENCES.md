@@ -19,7 +19,7 @@ image: Experiences.jpeg
 * Development of an EMS (Electrical Muscle Stimulation) haptic stimulation system utilizing biomechanical simulation<br />
 
 #### Human-Centered Intelligence Systems Lab, Korea (GIST)
-* <i><u>Research Intern (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) (January 2021 – September 2021)</u></i><br />
+* <i><u>Research Intern (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"><strong>SeungJun Kim</strong></a>) (January 2021 – August 2021)</u></i><br />
 * School of Integrated Technology Internship program & Undergraduate Research Intern Program<br />
 * Development of redirection system using multi-sensory stimulation<br />
 * Development of in vehicle AR system and NUI interaction interface<br />

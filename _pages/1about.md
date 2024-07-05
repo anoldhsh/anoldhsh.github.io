@@ -7,18 +7,18 @@ image: About.jpeg
 
 Hello! My name is Seokhyun (Shawn) Hwang, and I'm a <strong>Ph.D. student in Information
 Science</strong> at the <a href="https://www.washington.edu/"
-              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>University of
+              style='font-weight: lighter; text-decoration: underline dotted; color: #333;'><strong>University of
 Washington</strong></a> in the <a href="https://depts.washington.edu/acelab/"
-              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>ACE Lab</strong></a> (Advisor:
+              style='font-weight: lighter; text-decoration: underline dotted; color: #333;'><strong>ACE Lab</strong></a> (Advisor:
 <a href="https://faculty.washington.edu/wobbrock/"
-              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>Jacob O.
+              style='font-weight: lighter; text-decoration: underline dotted; color: #333;'><strong>Jacob O.
 Wobbrock</strong></a>). I completed my Master's degree in the Intelligent Robotics Program at
 <a href="https://www.gist.ac.kr/en/main.html"
-              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>GIST</strong></a>, <a
+              style='font-weight: lighter; text-decoration: underline dotted; color: #333;'><strong>GIST</strong></a>, <a
               href="https://sites.google.com/view/gist-hcis-lab"
-              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>HCIS Lab</strong></a>
+              style='font-weight: lighter; text-decoration: underline dotted; color: #333;'><strong>HCIS Lab</strong></a>
 (Advisor: <a href="https://scholar.google.co.kr/citations?user=AjfRd6wAAAAJ&hl"
-              style='font-weight: lighter; text-decoration: underline; color: #333;'><strong>SeungJun Kim</strong></a>) in Korea.
+              style='font-weight: lighter; text-decoration: underline dotted; color: #333;'><strong>SeungJun Kim</strong></a>) in Korea.
 Explore more about me: <a href='/ABOUT'><strong>ABOUT</strong></a>, <a href='/PUBLICATIONS'><strong>PUBLICATIONS</strong></a>, <a
               href='/EXPERIENCES'><strong>EXPERIENCES</strong></a>, and <a
               href='/EXTRAS'><strong>EXTRA
@@ -131,7 +131,12 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 # INVITED TALKS
 
-#### HCI Korea’24 Top-conference Sessions, ACM SIGCHI (Korea Local Chapter)
+#### University of Chicago, Human Computer Integration Lab
 
 - <i><u>January 2024</u></i><br />
-- Presentation of Vestibular Stimuli-Based Redirected Walking Research at a HCI Korea’24 Top-Conference Invited Talk Session.
+- Invited Presentation (hosted by Pedro Lopes).
+
+#### HCI Korea 2024 Top-conference Sessions, ACM SIGCHI
+
+- <i><u>January 2024</u></i><br />
+- Presentation of Vestibular Stimuli-Based Redirected Walking Research at a HCI Korea 2024 Top-Conference Invited Talk Session.
