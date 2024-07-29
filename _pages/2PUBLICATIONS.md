@@ -405,9 +405,9 @@ image: Publications_0731.jpg
 # Patents
 
 <div class="publication-text">
-<font size="4"><b>Method for Supporting Walking in Virtual Environment and System for the Same</b></font><br>
+<font size="4"><b>Method and System for Supporting Walking in Virtual Environment</b></font><br>
 <font size="3" style="color:dark_gray;"><strong>Hwang, S.</strong>, Lee, J., Kim, Y., Seo, Y., and Kim, S.</font><br>
-<font size="3" style="color:gray;"><u><i>KR Patent App. 2023-0,155,898</i></u></font>
+<font size="3" style="color:gray;"><u><i>US Patent App. 18/783,599 || KR Patent App. 10-2023-0,155,898</i></u></font>
 </div>
 
 <br>
