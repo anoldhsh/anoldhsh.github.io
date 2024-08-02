@@ -202,6 +202,17 @@ image: Publications_0731.jpg
 
 </div>
 
+<div class="publication-container" data-tags="Haptics Conference">
+  <div class="publication-image">
+    <img src="/images/FlipPelt_UIST.png" alt="Research Image">
+  </div>
+  <div class="publication-text">
+    <font size="4"><b>Flip-Pelt: Motor-Driven Peltier Elements for Rapid Thermal Stimulation and Congruent Pressure Feedback in Virtual Reality</b></font><br>
+    <font size="3" style="color:dark_gray;">Kang, S., Kim, G., <strong>Hwang, S.</strong>, Park, J., Elsharkawy, A., and Kim, S.</font><br>
+    <font size="3" style="color:gray;"><u><i>UIST '24: Proceedings of the ACM Symposium on User Interface Software and Technology</i></u> - <strong>(Accepted)</strong></font>
+  </div>
+</div>
+
 <div class="publication-container" data-tags="Haptics Poster&Workshop FA">
     <div class="publication-image">
       <img src="/images/ProposeTelePulse.png" alt="Research Image">
