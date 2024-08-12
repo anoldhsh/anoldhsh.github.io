@@ -72,6 +72,11 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 # AWARDS & HONORS
 
+#### Special Recognitions, ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), ACM
+
+- <i><u>Aug 2024</u></i><br />
+- Special Recognitions for Outstanding Reviews in 2024 IMWUT
+
 #### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems, ACM
 
 - <i><u>May 2024</u></i><br />
