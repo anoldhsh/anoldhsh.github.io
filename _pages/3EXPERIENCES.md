@@ -41,10 +41,11 @@ image: Experiences.jpeg
 ***
 
 # TEACHING EXPERIENCE
-#### XR Project Class Teaching Assistant, Korea (GIST)
+#### INFO360: Design Methods Teaching Assistant, University of Washington 
+* <i><u>2024 Fall Quarter</u></i><br />
+
+#### RT6304: XR Project Class Teaching Assistant, GIST
 * <i><u>2022 Fall Semester - 2023 Spring Semester</u></i><br />
-* Served as a teaching assistant in a project-based class
-* Responsible for teaching, exam preparation, and evaluation of the Unity-based XR project
 
 #### 2019 GIST Global Science Camp in Laos, <a href="https://www.nuol.edu.la/index.php/en">National University of Laos (NUOL)</a>
 * <i><u>Experiment Instructor (Educational volunteer) (July 2019)</u></i><br />

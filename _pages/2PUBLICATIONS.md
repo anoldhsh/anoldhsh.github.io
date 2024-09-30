@@ -221,7 +221,7 @@ image: Publications_0731.jpg
       <font size="4"><b>Proposal of a Framework for Enhancing Teleoperation Experience with Biomechanical Simulation-Based Electrical Muscle Stimulation in Virtual Reality</b></font>
       <br>
       <font size="3" style="color:dark_gray;"><strong>Hwang, S.</strong>, Kang, S., Oh, J., Park, J., Shin, S., Yiyue Luo, Joseph DelPreto, Wojciech Matusik, Daniela Rus, and Kim, S.</font><br>
-      <font size="3" style="color:gray;"><u><i>UbiComp/ISWC '24 Adjunct</i></u> - <strong>(Accepted)</strong></font>
+      <font size="3" style="color:gray;"><u><i>UbiComp/ISWC '24 Adjunct</i></u> - <a href="https://doi.org/10.1145/3675094.3678380"><strong>Link</strong></a></font>
     </div>
   </div>
 
@@ -233,7 +233,7 @@ image: Publications_0731.jpg
     <font size="4"><b>Adaptive In-Vehicle Virtual Reality for Reducing Motion Sickness: Manipulating Passenger Posture During Driving Events</b></font>
     <br>
     <font size="3" style="color:dark_gray;">Elsharkawy, A., Ataya, A., Yeo, D., Seong, M., <strong>Hwang, S.</strong>, Joseph DelPreto, Wojciech Matusik, Daniela Rus, and Kim, S.</font><br>
-    <font size="3" style="color:gray;"><u><i>UbiComp/ISWC '24 Adjunct</i></u> - <strong>(Accepted)</strong></font>
+    <font size="3" style="color:gray;"><u><i>UbiComp/ISWC '24 Adjunct</i></u> - <a href="https://doi.org/10.1145/3675094.3678381"><strong>Link</strong></a></font>
   </div>
 </div>
 
@@ -337,7 +337,7 @@ image: Publications_0731.jpg
   <div class="publication-text">
     <font size="4"><b>Evaluation of Visual, Auditory, and Olfactory Stimulus-Based Attractors for Intermittent
      Reorientation in Virtual Reality Locomotion</b></font><br>
-    <font size="3" style="color:dark_gray;">Lee, J., <strong>Hwang, S.</strong>, Ataya, A., and Kim, S.</font><br>
+    <font size="3" style="color:dark_gray;">Lee, J., <strong>Hwang, S.</strong>, Kim, K., and Kim, S.</font><br>
     <font size="3" style="color:gray;"><u><i>Virtual Reality</i></u> - <a href="https://doi.org/10.1007/s10055-024-00997-y"><strong>Link</strong></a></font>
   </div>
 </div>
