@@ -32,19 +32,19 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 #### University of Washington, United States <small>(Expected)</small><br />
 
-- <strong>Doctor of Philosophy (Ph.D.)</strong> - Information Science, Information School <small>(September 2024 – Present)</small><br />
+- <strong>Doctor of Philosophy (Ph.D.)</strong> - Information Science, Information School <small>(Sep 2024 – Present)</small><br />
 
 #### Gwangju Institute of Science and Technology, Korea<br />
 
-- <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(September 2021 – August 2023)</small><br />
+- <strong>Master of Science (M.S.)</strong> - Intelligent Robotics, Institute of Integrated Technology <small>(Sep 2021 – Aug 2023)</small><br />
 
 #### Boston University, United States<br />
 
-- <strong>Exchange Student</strong> <small>(June 2018 – August 2018)</small>
+- <strong>Exchange Student</strong> <small>(Jun 2018 – Aug 2018)</small>
 
 #### Gwangju Institute of Science and Technology, Korea<br />
 
-- <strong>Bachelor of Science (B.S.)</strong> - Department of Mechanical Engineering <small>(March 2017 – August 2021)</small>
+- <strong>Bachelor of Science (B.S.)</strong> - Department of Mechanical Engineering <small>(Mar 2017 – Aug 2021)</small>
 
 ---
 
@@ -54,7 +54,6 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 - Autodesk Inventor
 - Fusion 360
-- SolidWorks
 - Blender
 - KiCad
 
@@ -72,64 +71,76 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 # AWARDS & HONORS
 
-#### Special Recognitions, ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT), ACM
+#### Gell Mason Endowed Fellowship, University of Washington
+
+- <i><u>Sep 2024</u></i><br />
+
+#### Provost-Funded Fellow, University of Washington
+
+- <i><u>Sep 2024</u></i><br />
+
+#### Startup Funding, University of Washington
+
+- <i><u>Sep 2024</u></i><br />
+
+#### Special Recognitions, ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies
 
 - <i><u>Aug 2024</u></i><br />
 - Special Recognitions for Outstanding Reviews in 2024 IMWUT
 
-#### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems, ACM
+#### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems
 
 - <i><u>May 2024</u></i><br />
 - Honorable mention for being in the top 5% of conference papers <i>(ErgoPulse)</i>
 
-#### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems, ACM
+#### Honorable Mentions, 2024 CHI conference on Human Factors in Computing Systems
 
 - <i><u>May 2024</u></i><br />
 - Honorable mention for being in the top 5% of conference papers <i>(SYNC-VR)</i>
 
-#### Honorable Mentions, IEEE International Symposium on Mixed and Augmented Reality (ISMAR), IEEE
+#### Honorable Mentions, IEEE International Symposium on Mixed and Augmented Reality (ISMAR)
 
-- <i><u>October 2023</u></i><br />
+- <i><u>Oct 2023</u></i><br />
 - Honorable mention for being in the top 1% of conference papers
 
-#### Honorable Mentions, International ACM Conference on AutomotiveUI, ACM
+#### Honorable Mentions, International ACM Conference on AutomotiveUI
 
-- <i><u>September 2023</u></i><br />
+- <i><u>Sep 2023</u></i><br />
 - Honorable mention for being in the top 5% of conference papers
 
-#### Special Recognitions, ACM Symposium on User Interface Software and Technology (UIST), ACM
+#### Special Recognitions, ACM Symposium on User Interface Software and Technology (UIST)
 
 - <i><u>May 2023</u></i><br />
 - Special Recognitions for Outstanding Reviews in 2023 UIST
 
 #### Government supported Scholarship, Korea
 
-- <i><u>September 2021 – June 2023</u></i><br />
+- <i><u>Sep 2021 – Jun 2023</u></i><br />
 - Master's Degree Government Scholarship
 
-#### President Award, Korea (GIST)
+#### President Award, GIST
 
-- <i><u>August 2020</u></i><br />
+- <i><u>Aug 2020</u></i><br />
 - 1st prize in table tennis robot at the 4th GIST Creative Convergence Competition in 2020
 
-#### Scholarship for Academic Excellence, Korea
+#### Scholarship for Academic Excellence
 
-- <i><u>September 2020 – December 2020</u></i><br />
+- <i><u>Sep 2020 – Dec 2020</u></i><br />
 - GIST Scholarship for Academic Excellence
 
-#### Industry-Academic Cooperation Scholarship, Korea
+#### Industry-Academic Cooperation Scholarship
 
-- <i><u>December 2019 – February 2020</u></i><br />
+- <i><u>Dec 2019 – Feb 2020</u></i><br />
 - Industry-Academic Cooperation Scholarship in BA Energy Lab
 
-#### Scholarship for Overseas Summer Semester Exchange Students, United States
+#### Scholarship for Overseas Summer Semester Exchange Students
 
-- <i><u>June 2018 – August 2018</u></i><br />
+- <i><u>Jun 2018 – Aug 2018</u></i><br />
 - Boston University Summer Semester Exchange Student Scholarship
 
 #### Government supported Scholarship, Korea
 
-- <i><u>March 2017 – August 2021</u></i><br />
+- <i><u>Mar 2017 – Aug 2021</u></i><br />
 - GIST Bachelor's Degree Government Scholarship
 
 ---
@@ -138,10 +149,10 @@ I have been working on developing my own VR locomotion method and haptic feedbac
 
 #### University of Chicago, Human Computer Integration Lab
 
-- <i><u>January 2024</u></i><br />
+- <i><u>Jan 2024</u></i><br />
 - Invited Presentation (hosted by Pedro Lopes).
 
-#### HCI Korea 2024 Top-conference Sessions, ACM SIGCHI
+#### HCI Korea 2024, ACM SIGCHI
 
-- <i><u>January 2024</u></i><br />
+- <i><u>Jan 2024</u></i><br />
 - Presentation of Vestibular Stimuli-Based Redirected Walking Research at a HCI Korea 2024 Top-Conference Invited Talk Session.
